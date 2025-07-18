@@ -1,0 +1,9 @@
+*.pyc
+.cache
+.idea
+test
+test.*
+models
+repos
+results
+config/_*.yaml

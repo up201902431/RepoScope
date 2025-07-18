@@ -1,0 +1,73 @@
+graph_parser:
+  call_weight: 2.0  # i.e. \alpha_3
+  chain_weight: 1.0
+  aggregation_multiple: 5
+  embedder_name: "bge-small"  # bge-small | jina-v3
+  version: 1.5
+
+graph_info:
+  call_chain_max_nodes: 5  # i.e. l_{max}
+  max_choices_for_each_set: 4  # i.e. \tau
+
+  structure_weight: 2.0   # i.e. \alpha_2
+  similarity_weight: 1.0   # i.e. \alpha_1
+  infile_weight: 2.0
+  import_weight: 2.0
+  inclass_magic_method_weight: 0.2
+  
+  max_call_chains: 10  # num call chains per retrieval
+  max_callers: 5  # num callers per retrieval
+  max_sim_functions: 10  # num similar functions per retrieval
+
+  enable_call_chain_extension: true
+
+  version: 1.11
+
+data:
+  dataset: "codereval"  # codereval | deveval | repoeval
+  benchmark: ""  # for compatibility
+  reuse_cache: true  # reuse intermediate results
+
+retrieval:
+  vectorizer_type: "embedder"  # tokenizer | embedder
+  vectorizer_name: "bge-small"  # tokenizer: p50k_base | codegen-6b-mono; embedder: bge-small | jina-v3
+  fragment_sizes:
+    - 20
+  slice_sizes:
+    - 2
+  max_sim_fragments: 20  # num similar code fragments per retrieval
+
+
+prompt:
+  num_seperators: 30  # num '-' per separate line
+
+  num_call_chains: 5  # i.e. K_{chain}
+  num_callers: 5  # i.e. K_{caller}
+  num_sim_functions: 5  # i.e. K_{sim_function}
+  num_sim_fragments: 5  # i.e. K_{sim_fragment}
+
+generate:
+  model_name: "deepseek-chat"  # deepseek-chat | gpt-4o-mini | qwen3-235b-a22b-no-thinking | claude-3-5-haiku-20241022
+
+method:
+  type: "callee_baseline"  # direct | baseline | ground_truth | ours | repo_coder | callee_ground_truth | callee_baseline | ours+repo_coder | ours+rlcoder
+
+  context_include_strategy: "fixed"  # fixed | auto | api_choose_by_llm
+  include_call_chains: true
+  include_callers: true
+  include_sim_functions: true
+  include_sim_fragments: true
+
+  structural_serialization: true
+
+  call_chain_use_full_content: false
+  sim_function_use_full_content: true
+
+  retrieve_fragments_for_call_chains: false
+
+  include_imports: true
+  include_func_path: true
+
+  debug: false
+
+  version: 6.9  # use to avoid cache, omit empty
