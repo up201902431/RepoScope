@@ -29,11 +29,23 @@ class Vectorizer:
                 raise NotImplementedError()
         else:
             model_path = Config.Retrieval.model_path
-            memory_map = Config.Retrieval.memory_map()
             if cls.vectorizer_name == CONSTANTS.bge_small:
-                cls.model = FlagAutoModel.from_finetuned(model_path, max_memory=memory_map)
+                if torch.cuda.is_available():
+                    cls.model = FlagAutoModel.from_finetuned(
+                        model_path, max_memory=Config.Retrieval.memory_map()
+                    )
+                else:
+                    cls.model = FlagAutoModel.from_finetuned(
+                        model_path, devices='cpu', use_fp16=False
+                    )
             else:
-                cls.model = AutoModel.from_pretrained(model_path, max_memory=memory_map, trust_remote_code=True)
+                cls.model = AutoModel.from_pretrained(
+                    model_path,
+                    **({'max_memory': Config.Retrieval.memory_map()} if torch.cuda.is_available() else {}),
+                    trust_remote_code=True
+                )
+                if not torch.cuda.is_available():
+                    cls.model = cls.model.to('cpu')
         print('Vectorizer initialized')
 
     @classmethod

@@ -24,11 +24,23 @@ class Embedder:
             Embedder.model = tiktoken.get_encoding(CONSTANTS.p50k_base)
         else:
             model_path = Config.GraphParser.model_path
-            memory_map = Config.GraphParser.memory_map()
             if embedder_name == CONSTANTS.bge_small:
-                Embedder.model = FlagAutoModel.from_finetuned(model_path, max_memory=memory_map)
+                if torch.cuda.is_available():
+                    Embedder.model = FlagAutoModel.from_finetuned(
+                        model_path, max_memory=Config.GraphParser.memory_map()
+                    )
+                else:
+                    Embedder.model = FlagAutoModel.from_finetuned(
+                        model_path, devices='cpu', use_fp16=False
+                    )
             else:
-                Embedder.model = AutoModel.from_pretrained(model_path, max_memory=memory_map, trust_remote_code=True)
+                Embedder.model = AutoModel.from_pretrained(
+                    model_path,
+                    **({'max_memory': Config.GraphParser.memory_map()} if torch.cuda.is_available() else {}),
+                    trust_remote_code=True
+                )
+                if not torch.cuda.is_available():
+                    Embedder.model = Embedder.model.to('cpu')
         print('Embedder initialized')
 
     @staticmethod

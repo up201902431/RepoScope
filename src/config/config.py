@@ -8,8 +8,8 @@ import socket
 import time
 from typing import Any
 
+import torch
 import yaml
-from pynvml import nvmlInit, nvmlDeviceGetCount, nvmlDeviceGetHandleByIndex, nvmlDeviceGetMemoryInfo
 
 from src.config.constants import CONSTANTS
 
@@ -20,6 +20,8 @@ class Config:
     class GraphParser:
         @staticmethod
         def memory_map() -> dict[int, str]:
+            if not torch.cuda.is_available():
+                return {}
             free_gpus = Config._search_for_free_gpus(1000)
             if len(free_gpus) < 1:
                 raise RuntimeError(f'No free GPUs for embedder')
@@ -44,6 +46,8 @@ class Config:
         @classmethod
         def memory_map(cls) -> dict[int, str]:
             if cls.is_local_llm:
+                if not torch.cuda.is_available():
+                    return {}
                 match = re.fullmatch(r'^.*?((\d+\.)?\d+)b$', cls.model_name)
                 if match is None:
                     num_gpus = 1
@@ -77,10 +81,11 @@ class Config:
     @staticmethod
     def _search_for_free_gpus(memory_threshold: int = 24000) -> list[int]:
         free_gpus = []
-        nvmlInit()
-        for gpu_index in range(nvmlDeviceGetCount()):
-            handle = nvmlDeviceGetHandleByIndex(gpu_index)
-            if nvmlDeviceGetMemoryInfo(handle).free / 1024 ** 2 >= memory_threshold:
+        if not torch.cuda.is_available():
+            return free_gpus
+        for gpu_index in range(torch.cuda.device_count()):
+            free_memory, _ = torch.cuda.mem_get_info(gpu_index)
+            if free_memory / 1024 ** 2 >= memory_threshold:
                 free_gpus.append(gpu_index)
         return free_gpus
 
