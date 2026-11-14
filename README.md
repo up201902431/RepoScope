@@ -130,8 +130,7 @@ pip install -r requirements.txt
 
 ### RQ1: Overall Performance
 
-```shell
-./scripts/run_pipeline.sh --config=config_rq1
+```s
 ```
 
 You can modify the configuration in the corresponding YAML file under the `./config` directory to use other backbone models or evaluate other datasets.

@@ -167,7 +167,9 @@ class LLMClientWrapper:
                     has_reminded = False
                     for task in DatasetLoader.load_tasks():
                         task_id = task.task_id
-                        prompt_item = task_id_2_prompt_item[task_id]
+                        prompt_item = task_id_2_prompt_item.get(task_id)
+                        if prompt_item is None:
+                            continue
                         while True:
                             if task_id in task_id_counter and task_id_counter[task_id] >= max_gen_per_item:
                                 break

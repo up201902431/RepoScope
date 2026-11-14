@@ -6,10 +6,23 @@ import os
 import re
 import socket
 import time
-from typing import Any
+from typing import Any, Dict, Union
 
 import yaml
-from pynvml import nvmlInit, nvmlDeviceGetCount, nvmlDeviceGetHandleByIndex, nvmlDeviceGetMemoryInfo
+try:
+    from pynvml import (
+        NVMLError,
+        nvmlInit,
+        nvmlDeviceGetCount,
+        nvmlDeviceGetHandleByIndex,
+        nvmlDeviceGetMemoryInfo,
+    )
+except ImportError:
+    NVMLError = None
+    nvmlInit = None
+    nvmlDeviceGetCount = None
+    nvmlDeviceGetHandleByIndex = None
+    nvmlDeviceGetMemoryInfo = None
 
 from src.config.constants import CONSTANTS
 
@@ -19,10 +32,11 @@ class Config:
 
     class GraphParser:
         @staticmethod
-        def memory_map() -> dict[int, str]:
+        def memory_map() -> Dict[Union[int, str], str]:
             free_gpus = Config._search_for_free_gpus(1000)
             if len(free_gpus) < 1:
-                raise RuntimeError(f'No free GPUs for embedder')
+                print('No free GPU found; using CPU for embedder')
+                return {'cpu': '8GiB'}
             else:
                 return {free_gpus[-1]: '1000MiB'}
 
@@ -34,7 +48,7 @@ class Config:
 
     class Retrieval:
         @staticmethod
-        def memory_map() -> dict[int, str]:
+        def memory_map() -> Dict[Union[int, str], str]:
             return Config.GraphParser.memory_map()
 
     class Prompt:
@@ -42,7 +56,7 @@ class Config:
 
     class Generate:
         @classmethod
-        def memory_map(cls) -> dict[int, str]:
+        def memory_map(cls) -> Dict[Union[int, str], str]:
             if cls.is_local_llm:
                 match = re.fullmatch(r'^.*?((\d+\.)?\d+)b$', cls.model_name)
                 if match is None:
@@ -59,6 +73,10 @@ class Config:
                         num_gpus = 5
                     else:
                         raise NotImplementedError()
+                available_gpus = Config._search_for_free_gpus()
+                if not available_gpus:
+                    print('No GPU found; using CPU for local LLM')
+                    return {'cpu': '32GiB'}
                 while True:
                     free_gpus = Config._search_for_free_gpus()
                     if num_gpus > len(free_gpus):
@@ -77,7 +95,12 @@ class Config:
     @staticmethod
     def _search_for_free_gpus(memory_threshold: int = 24000) -> list[int]:
         free_gpus = []
-        nvmlInit()
+        if nvmlInit is None:
+            return free_gpus
+        try:
+            nvmlInit()
+        except NVMLError:
+            return free_gpus
         for gpu_index in range(nvmlDeviceGetCount()):
             handle = nvmlDeviceGetHandleByIndex(gpu_index)
             if nvmlDeviceGetMemoryInfo(handle).free / 1024 ** 2 >= memory_threshold:

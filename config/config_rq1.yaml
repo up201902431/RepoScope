@@ -68,6 +68,6 @@ method:
   include_imports: true
   include_func_path: true
 
-  debug: false
+  debug: true
 
   version: 6.9  # use to avoid cache, omit empty
