@@ -1,4 +1,5 @@
 import argparse
+from datetime import datetime
 import hashlib
 import json
 import multiprocessing
@@ -164,7 +165,9 @@ class Config:
         cls.Data.project_path = _project_path
         cls.Data.repos_path = os.path.join(_big_data_base_path, 'repos', _dataset)
         cls.Data.base_cache_path = os.path.join(_project_path, '.cache', _dataset)
-        cls.Data.result_path = os.path.join(_project_path, 'results', _dataset)
+        run_timestamp = os.getenv('REPOSCOPE_RUN_TIMESTAMP') or \
+            datetime.now().astimezone().strftime('%Y%m%d_%H%M%S_%f')[:-3]
+        cls.Data.result_path = os.path.join(_project_path, 'results', _dataset, run_timestamp)
         cls.Data.benchmark_path = os.path.join(_project_path, 'datasets', f'{_dataset}.jsonl')
         cls.Data.api_level = cls.Data.dataset == CONSTANTS.repoeval
 
