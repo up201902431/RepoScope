@@ -136,6 +136,8 @@ pip install -r requirements.txt
 
 You can modify the configuration in the corresponding YAML file under the `./config` directory to use other backbone models or evaluate other datasets.
 
+Each pipeline execution stores its outputs under a single timestamped directory, such as `results/runs/codereval/20261115_154642_123/`. This preserves the prompts, predictions, evaluations, and `reposcope.log` from previous executions. Intermediate caches remain under `.cache/` and are reused between runs.
+
 ### RQ2: Ablation Study
 
 ```shell
