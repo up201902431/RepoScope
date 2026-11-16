@@ -3,7 +3,7 @@ graph_parser:
   chain_weight: 1.0
   aggregation_multiple: 5
   embedder_name: "bge-small"  # bge-small | jina-v3
-  version: 1.5
+  version: 1.6
 
 graph_info:
   call_chain_max_nodes: 5  # i.e. l_{max}

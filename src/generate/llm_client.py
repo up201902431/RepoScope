@@ -37,9 +37,13 @@ class Client:
             cls.tokenizer = AutoTokenizer.from_pretrained(cls.model_path, trust_remote_code=True)
             if cls.tokenizer.pad_token_id is None:
                 cls.tokenizer.pad_token_id = cls.tokenizer.eos_token_id
-            cls.model = AutoModelForCausalLM.from_pretrained(
-                cls.model_path, trust_remote_code=True, device_map='auto', max_memory=Config.Generate.memory_map()
-            )
+            if torch.cuda.is_available():
+                cls.model = AutoModelForCausalLM.from_pretrained(
+                    cls.model_path, trust_remote_code=True, device_map='auto',
+                    max_memory=Config.Generate.memory_map()
+                )
+            else:
+                cls.model = AutoModelForCausalLM.from_pretrained(cls.model_path, trust_remote_code=True)
         else:
             cls.model = Client.model_path
         print('LLM initialized')
