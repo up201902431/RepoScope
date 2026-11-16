@@ -612,8 +612,8 @@ class Parser:
                 node.plain_path, Embedder.encode(os.sep.join(node.plain_path_list[-2:]))
             ))
             if isinstance(node, FunctionNode):
-                self.call_correlation_graph[node.plain_path] = {path: 0.0 for path in self.node_map.keys()}
-            self.chain_correlation_graph[node.plain_path] = {path: 0.0 for path in self.node_map.keys()}
+                self.call_correlation_graph[node.plain_path] = defaultdict(float)
+            self.chain_correlation_graph[node.plain_path] = defaultdict(float)
 
         for code_file, _, _ in self._walk_files():
             code_root = Parser._get_ast(code_file).root_node
