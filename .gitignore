@@ -1,8 +1,0 @@
-*.pyc
-.cache
-.idea
-test
-test.*
-models
-repos
-config/_*.yaml

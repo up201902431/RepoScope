@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/src/pipeline.py", line 3, in <module>
-    from src.code_graph.parser import CodeGraphWrapper
-  File "/mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/src/code_graph/parser.py", line 14, in <module>
-    import tree_sitter as ts
-ModuleNotFoundError: No module named 'tree_sitter'
