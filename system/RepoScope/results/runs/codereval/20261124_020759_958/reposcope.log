@@ -1,0 +1,515 @@
+Config Initialized
+.pytype is not a repo
+62b43425903eeb48555d3ea1 no function found
+62b43426903eeb48555d3ea2 no function found
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---borgmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---atticmatic
+exclude task in repo: witten---borgmatic
+exclude task in repo: witten---borgmatic
+exclude task in repo: witten---borgmatic
+exclude task in repo: witten---borgmatic
+exclude task in repo: gopad---gopad-python
+[INFO] Reuse 62ece4992e6aefcf4aabbd86 call_chain
+62ece4992e6aefcf4aabbd88 incorrect file path
+exclude task in repo: witten---borgmatic
+[INFO] Finished call-chain processing for ansible-security---ansible_collections.ibm.qradar
+[INFO] Reuse 62ece4992e6aefcf4aabbd8b call_chain
+[INFO] Finished call-chain processing for awsteiner---o2sclpy
+[INFO] Reuse 62b46740d2f69a53b466171a call_chain
+[INFO] Reuse 62b46746d2f69a53b4661722 call_chain
+[INFO] Finished call-chain processing for bastikr---boolean
+[INFO] Finished call-chain processing for bazaar-projects---docopt-ng
+[INFO] Reuse 62ece4982e6aefcf4aabbd66 call_chain
+[INFO] Reuse 62ece4982e6aefcf4aabbd71 call_chain
+[INFO] Reuse 62ece4982e6aefcf4aabbd76 call_chain
+[INFO] Reuse 62ece4992e6aefcf4aabbd80 call_chain
+[INFO] Finished call-chain processing for burgerbecky---makeprojects
+[INFO] Reuse 62b8b99de0d34b282c1811f8 call_chain
+[INFO] Reuse 62b8bbbce0d34b282c18120d call_chain
+[INFO] Reuse 62b8bbbfe0d34b282c18120f call_chain
+[INFO] Reuse 62b8bbbfe0d34b282c181210 call_chain
+[INFO] Reuse 62b8c517e0d34b282c18122e call_chain
+[INFO] Finished call-chain processing for champax---pysolbase
+[INFO] Reuse 62ece4982e6aefcf4aabbd70 call_chain
+[INFO] Reuse 62ece4982e6aefcf4aabbd73 call_chain
+[INFO] Reuse 62ece4992e6aefcf4aabbd78 call_chain
+[INFO] Reuse 62ece4992e6aefcf4aabbd7a call_chain
+[INFO] Reuse 62ece4992e6aefcf4aabbd7c call_chain
+[INFO] Finished call-chain processing for cloudmesh---cloudmesh-common
+[INFO] Reuse 62ece4982e6aefcf4aabbd75 call_chain
+[INFO] Finished call-chain processing for commandline---flashbake
+[INFO] Reuse 62b43427903eeb48555d3ea5 call_chain
+[INFO] Reuse 62b43428903eeb48555d3eaa call_chain
+[INFO] Finished call-chain processing for cpburnz---python-sql-parameters
+[INFO] Reuse 62b87d23d292efb640a55667 call_chain
+[INFO] Reuse 62b87d23d292efb640a55668 call_chain
+[INFO] Reuse 62b87d23d292efb640a5566b call_chain
+[INFO] Reuse 62b87d24d292efb640a5566d call_chain
+[INFO] Reuse 62b87d24d292efb640a5566f call_chain
+[INFO] Reuse 62b87d24d292efb640a55670 call_chain
+[INFO] Reuse 62ece4992e6aefcf4aabbd83 call_chain
+[INFO] Finished call-chain processing for eykd---prestoplot
+[INFO] Finished call-chain processing for gopad---gopad-python
+[INFO] Reuse 62ece4982e6aefcf4aabbd72 call_chain
+[INFO] Finished call-chain processing for ikus060---rdiffweb
+[INFO] Reuse 62ece4982e6aefcf4aabbd5f call_chain
+[INFO] Finished call-chain processing for infobloxopen---infoblox-client
+[INFO] Reuse 6306292052e177c0ba469f09 call_chain
+[INFO] Reuse 6306292152e177c0ba469f0d call_chain
+[INFO] Reuse 6306292252e177c0ba469f11 call_chain
+[INFO] Reuse 6306292352e177c0ba469f1d call_chain
+[INFO] Reuse 6306292352e177c0ba469f1e call_chain
+[INFO] Reuse 6306292652e177c0ba469f34 call_chain
+[INFO] Reuse 6306292a52e177c0ba469f41 call_chain
+[INFO] Reuse 6306298b52e177c0ba469fdc call_chain
+[INFO] Reuse 6306299052e177c0ba469fe8 call_chain
+[INFO] Reuse 630629b952e177c0ba46a043 call_chain
+[INFO] Reuse 630629d052e177c0ba46a0a1 call_chain
+[INFO] Reuse 630629e052e177c0ba46a0c4 call_chain
+[INFO] Reuse 630629e152e177c0ba46a0d1 call_chain
+[INFO] Reuse 630629e152e177c0ba46a0d2 call_chain
+[INFO] Reuse 630629e252e177c0ba46a0d6 call_chain
+[INFO] Reuse 630629e752e177c0ba46a0fb call_chain
+[INFO] Finished call-chain processing for jaywink---federation
+jaywink---federation.rar is not a repo
+[INFO] Reuse 62ece4992e6aefcf4aabbd82 call_chain
+[INFO] Finished call-chain processing for kirankotari---shconfparser
+[INFO] Reuse 62b45b396decaeff903e1001 call_chain
+[INFO] Finished call-chain processing for mozilla---relman-auto-nag
+[INFO] Reuse 6305f9991d275c6667163c50 call_chain
+[INFO] Finished call-chain processing for MozillaSecurity---lithium
+[INFO] Reuse 62ece4992e6aefcf4aabbd85 call_chain
+[INFO] Finished call-chain processing for mwatts15---rdflib
+[INFO] Reuse 62e5dc9ed76274f8a4026b5b call_chain
+[INFO] Reuse 62e60707d76274f8a4026b69 call_chain
+[INFO] Reuse 62e60723d76274f8a4026b75 call_chain
+[INFO] Reuse 62e60723d76274f8a4026b76 call_chain
+[INFO] Reuse 62e60873d76274f8a4026bd8 call_chain
+[INFO] Reuse 62e60879d76274f8a4026bec call_chain
+[INFO] Reuse 62e6087ad76274f8a4026bf2 call_chain
+[INFO] Reuse 62e6087bd76274f8a4026bfa call_chain
+[INFO] Reuse 62e60b10d76274f8a4026ccd call_chain
+[INFO] Reuse 62e60da4d76274f8a4026cf1 call_chain
+[INFO] Reuse 62e60e05d76274f8a4026cfd call_chain
+[INFO] Reuse 62e60e3bd76274f8a4026d1a call_chain
+[INFO] Reuse 62e60e49d76274f8a4026d25 call_chain
+[INFO] Reuse 62e60ecfd76274f8a4026d6a call_chain
+[INFO] Reuse 62e60ed4d76274f8a4026da0 call_chain
+[INFO] Reuse 62e60f33d76274f8a4026de9 call_chain
+[INFO] Reuse 62e60f37d76274f8a4026dfd call_chain
+[INFO] Reuse 62e60f3bd76274f8a4026e10 call_chain
+[INFO] Reuse 62e60f43d76274f8a4026e28 call_chain
+[INFO] Finished call-chain processing for neo4j---neo4j-python-driver
+[INFO] Reuse 62ece4982e6aefcf4aabbd63 call_chain
+[INFO] Reuse 62ece4992e6aefcf4aabbd7f call_chain
+[INFO] Finished call-chain processing for openstack---cinder
+[INFO] Reuse 62ece4982e6aefcf4aabbd69 call_chain
+[INFO] Finished call-chain processing for openstack---neutron-lib
+[INFO] Reuse 62ece4982e6aefcf4aabbd61 call_chain
+[INFO] Finished call-chain processing for ossobv---planb
+[INFO] Reuse 62b8d22548ba5a41d1c3f472 call_chain
+[INFO] Reuse 62b8d22948ba5a41d1c3f47c call_chain
+[INFO] Reuse 62b8d22a48ba5a41d1c3f47d call_chain
+[INFO] Reuse 62b8d22a48ba5a41d1c3f47e call_chain
+[INFO] Reuse 62b8d22f48ba5a41d1c3f488 call_chain
+[INFO] Reuse 62b8d23748ba5a41d1c3f496 call_chain
+[INFO] Reuse 62b8d23748ba5a41d1c3f497 call_chain
+[INFO] Reuse 62b8d23948ba5a41d1c3f498 call_chain
+[INFO] Reuse 62b8d23a48ba5a41d1c3f499 call_chain
+[INFO] Reuse 62b8d23b48ba5a41d1c3f49a call_chain
+[INFO] Reuse 62b8d23c48ba5a41d1c3f49b call_chain
+[INFO] Reuse 62b8d23e48ba5a41d1c3f49e call_chain
+[INFO] Reuse 62b8d24048ba5a41d1c3f49f call_chain
+[INFO] Reuse 62b8d27a48ba5a41d1c3f4c6 call_chain
+[INFO] Finished call-chain processing for pexip---os-python-cachetools
+[INFO] Reuse 62b89640755ee91dce50a114 call_chain
+[INFO] Reuse 62b8966c755ee91dce50a154 call_chain
+[INFO] Reuse 62b896de755ee91dce50a183 call_chain
+[INFO] Reuse 62b8982f755ee91dce50a241 call_chain
+[INFO] Reuse 62b8a4a4755ee91dce50a3d2 call_chain
+[INFO] Reuse 62b8a4a4755ee91dce50a3d3 call_chain
+[INFO] Reuse 62b8a7b2755ee91dce50a4a7 call_chain
+[INFO] Finished call-chain processing for pexip---os-python-dateutil
+pexip---os-python-dateutil.zip is not a repo
+[INFO] Reuse 62b8b3d4eb7e40a82d2d110d call_chain
+[INFO] Reuse 62b8b3d4eb7e40a82d2d110e call_chain
+[INFO] Reuse 62b8b3d4eb7e40a82d2d110f call_chain
+[INFO] Reuse 62b8b3d5eb7e40a82d2d1110 call_chain
+[INFO] Reuse 62b8b3d6eb7e40a82d2d111c call_chain
+[INFO] Reuse 62b8b416eb7e40a82d2d1129 call_chain
+[INFO] Reuse 62b8b4b9eb7e40a82d2d1134 call_chain
+[INFO] Reuse 62b8b4baeb7e40a82d2d1136 call_chain
+[INFO] Reuse 62b8b4baeb7e40a82d2d1137 call_chain
+[INFO] Reuse 62b8b4c1eb7e40a82d2d1139 call_chain
+[INFO] Reuse 62b8b559eb7e40a82d2d11f6 call_chain
+[INFO] Reuse 62b8b559eb7e40a82d2d11f8 call_chain
+[INFO] Reuse 62b8b58deb7e40a82d2d1269 call_chain
+[INFO] Reuse 62b8b590eb7e40a82d2d1275 call_chain
+[INFO] Reuse 62b8b59feb7e40a82d2d1291 call_chain
+[INFO] Finished call-chain processing for pexip---os-zope
+[INFO] Reuse 62e4fb4d85ea9864308902e7 call_chain
+[INFO] Reuse 62e4fb6585ea98643089032b call_chain
+[INFO] Reuse 62e4fbda85ea986430890403 call_chain
+[INFO] Reuse 62e4fbda85ea986430890405 call_chain
+[INFO] Reuse 62e4fc3c85ea98643089041e call_chain
+[INFO] Finished call-chain processing for pre-commit---pre-commit
+[INFO] Reuse 62b86707b4d922cb0e688c2a call_chain
+[INFO] Reuse 62b86729b4d922cb0e688c2f call_chain
+[INFO] Reuse 62b869eab4d922cb0e688cbf call_chain
+[INFO] Reuse 62b869eab4d922cb0e688cc5 call_chain
+[INFO] Reuse 62b869ebb4d922cb0e688cc6 call_chain
+[INFO] Reuse 62b86a01b4d922cb0e688ccc call_chain
+[INFO] Reuse 62b86a4fb4d922cb0e688cf7 call_chain
+[INFO] Reuse 62b86a4fb4d922cb0e688cf8 call_chain
+[INFO] Reuse 62b86a9eb4d922cb0e688d25 call_chain
+[INFO] Reuse 62b86aa3b4d922cb0e688d36 call_chain
+[INFO] Finished call-chain processing for rak-n-rok---Krake
+rak-n-rok---Krake.zip is not a repo
+[INFO] Reuse 6306091073426c38ae68acac call_chain
+[INFO] Reuse 6306091a73426c38ae68acc8 call_chain
+[INFO] Reuse 6306091b73426c38ae68acd7 call_chain
+[INFO] Reuse 6306091b73426c38ae68acd9 call_chain
+[INFO] Reuse 6306091b73426c38ae68acda call_chain
+[INFO] Reuse 6306091c73426c38ae68acdc call_chain
+[INFO] Reuse 6306091c73426c38ae68acdd call_chain
+[INFO] Reuse 6306091d73426c38ae68ace5 call_chain
+[INFO] Reuse 6306092373426c38ae68acfa call_chain
+[INFO] Reuse 6306092973426c38ae68ad01 call_chain
+[INFO] Reuse 6306092c73426c38ae68ad02 call_chain
+[INFO] Reuse 6306092d73426c38ae68ad04 call_chain
+[INFO] Reuse 6306092d73426c38ae68ad05 call_chain
+[INFO] Reuse 6306092d73426c38ae68ad06 call_chain
+[INFO] Reuse 6306092d73426c38ae68ad07 call_chain
+[INFO] Reuse 6306092d73426c38ae68ad08 call_chain
+[INFO] Reuse 6306092e73426c38ae68ad09 call_chain
+[INFO] Reuse 6306092e73426c38ae68ad0a call_chain
+[INFO] Reuse 6306092e73426c38ae68ad0b call_chain
+[INFO] Reuse 6306092e73426c38ae68ad0d call_chain
+[INFO] Reuse 6306092e73426c38ae68ad0f call_chain
+[INFO] Reuse 6306092e73426c38ae68ad11 call_chain
+[INFO] Reuse 6306092f73426c38ae68ad13 call_chain
+[INFO] Reuse 6306093273426c38ae68ad15 call_chain
+[INFO] Reuse 63060ada73426c38ae68ad31 call_chain
+[INFO] Reuse 63060b1a73426c38ae68ad3e call_chain
+[INFO] Reuse 63060b1b73426c38ae68ad42 call_chain
+[INFO] Reuse 63060b1b73426c38ae68ad43 call_chain
+[INFO] Finished call-chain processing for redhat-openstack---infrared
+[INFO] Reuse 62ece4992e6aefcf4aabbd7d call_chain
+[INFO] Finished call-chain processing for rougier---matplotlib
+[INFO] Reuse 62ece4982e6aefcf4aabbd67 call_chain
+[INFO] Finished call-chain processing for santoshphilip---eppy
+[INFO] Reuse 62b463153879012d19481498 call_chain
+[INFO] Reuse 62b463153879012d1948149a call_chain
+[INFO] Reuse 62b463153879012d1948149b call_chain
+[INFO] Reuse 62b463153879012d1948149c call_chain
+[INFO] Reuse 62b463153879012d1948149d call_chain
+[INFO] Reuse 62b463153879012d1948149f call_chain
+[INFO] Reuse 62b463153879012d194814a1 call_chain
+[INFO] Reuse 62b463163879012d194814a2 call_chain
+[INFO] Reuse 62b463163879012d194814a4 call_chain
+[INFO] Reuse 62b463163879012d194814a6 call_chain
+[INFO] Reuse 62b4631b3879012d194814dd call_chain
+[INFO] Reuse 62b463283879012d1948153d call_chain
+[INFO] Reuse 62b463303879012d19481579 call_chain
+[INFO] Finished call-chain processing for scieloorg---packtools
+[INFO] Reuse 62ece4992e6aefcf4aabbd87 call_chain
+[INFO] Finished call-chain processing for scrolltech---apphelpers
+[INFO] Reuse 62ece4982e6aefcf4aabbd62 call_chain
+[INFO] Finished call-chain processing for SEED-platform---py-seed
+[INFO] Reuse 62ece4982e6aefcf4aabbd6a call_chain
+[INFO] Finished call-chain processing for sipwise---repoapi
+[INFO] Reuse 62ece4982e6aefcf4aabbd68 call_chain
+[INFO] Reuse 62ece4982e6aefcf4aabbd6d call_chain
+[INFO] Finished call-chain processing for skorokithakis---shortuuid
+[INFO] Reuse 62ece4982e6aefcf4aabbd60 call_chain
+[INFO] Reuse 62ece4982e6aefcf4aabbd6f call_chain
+[INFO] Reuse 62ece4982e6aefcf4aabbd74 call_chain
+[INFO] Finished call-chain processing for SoftwareHeritage---swh-lister
+[INFO] Finished call-chain processing for sunpy---radiospectra
+[INFO] Reuse 62ece4982e6aefcf4aabbd6b call_chain
+[INFO] Finished call-chain processing for turicas---rows
+[INFO] Reuse 62ece4992e6aefcf4aabbd89 call_chain
+[INFO] Finished call-chain processing for ufo-kit---concert
+[INFO] Finished call-chain processing for witten---atticmatic
+[INFO] Finished call-chain processing for witten---borgmatic
+witten---borgmatic.zip is not a repo
+[INFO] Reuse 62b87af09a0c4fa8b80b34f1 call_chain
+[INFO] Reuse 62b87af19a0c4fa8b80b34f7 call_chain
+[INFO] Reuse 62b87af69a0c4fa8b80b351a call_chain
+[INFO] Reuse 62b87af99a0c4fa8b80b3524 call_chain
+[INFO] Reuse 62b87b099a0c4fa8b80b3538 call_chain
+[INFO] Reuse 62b87b199a0c4fa8b80b354c call_chain
+[INFO] Reuse 62b87b199a0c4fa8b80b354e call_chain
+[INFO] Reuse 62b87b4f9a0c4fa8b80b3580 call_chain
+[INFO] Reuse 62b87b4f9a0c4fa8b80b3581 call_chain
+[INFO] Reuse 62b87b519a0c4fa8b80b3583 call_chain
+[INFO] Reuse 62b87b7e9a0c4fa8b80b35bc call_chain
+[INFO] Reuse 62b87b839a0c4fa8b80b35cb call_chain
+[INFO] Reuse 62b87b859a0c4fa8b80b35d7 call_chain
+[INFO] Reuse 62b87b869a0c4fa8b80b35e1 call_chain
+[INFO] Reuse 62b87b989a0c4fa8b80b35ee call_chain
+[INFO] Finished call-chain processing for ynikitenko---lena
+[INFO] Reuse 62b45df05108cfac7f2109ce call_chain
+[INFO] Reuse 62b45df15108cfac7f2109dc call_chain
+[INFO] Reuse 62b45df15108cfac7f2109dd call_chain
+[INFO] Reuse 62b45e135108cfac7f2109f4 call_chain
+[INFO] Reuse 62b45e145108cfac7f210a07 call_chain
+[INFO] Reuse 62b45e145108cfac7f210a09 call_chain
+[INFO] Reuse 62b45e165108cfac7f210a16 call_chain
+[INFO] Reuse 62b45e165108cfac7f210a17 call_chain
+[INFO] Reuse 62b45e175108cfac7f210a19 call_chain
+[INFO] Reuse 62b45e21e0d4551b0392c8ed call_chain
+[INFO] Reuse 62b45e23e0d4551b0392c90a call_chain
+[INFO] Reuse 62b45e2eb89c9fd354170232 call_chain
+[INFO] Reuse 62b45e515108cfac7f210a3c call_chain
+[INFO] Reuse 62b45e945108cfac7f210a4a call_chain
+[INFO] Reuse 62ece4982e6aefcf4aabbd64 call_chain
+[INFO] Finished call-chain processing for zimeon---ocfl-py
+zimeon---ocfl-py.zip is not a repo
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ansible-security---ansible_collections.ibm.qradar/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/awsteiner---o2sclpy/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bastikr---boolean/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bazaar-projects---docopt-ng/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/burgerbecky---makeprojects/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/champax---pysolbase/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cloudmesh---cloudmesh-common/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/commandline---flashbake/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cpburnz---python-sql-parameters/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/eykd---prestoplot/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/gopad---gopad-python/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ikus060---rdiffweb/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/infobloxopen---infoblox-client/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/jaywink---federation/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/kirankotari---shconfparser/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mozilla---relman-auto-nag/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/MozillaSecurity---lithium/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mwatts15---rdflib/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/neo4j---neo4j-python-driver/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---cinder/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---neutron-lib/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ossobv---planb/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-cachetools/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-dateutil/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-zope/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pre-commit---pre-commit/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rak-n-rok---Krake/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/redhat-openstack---infrared/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rougier---matplotlib/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/santoshphilip---eppy/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scieloorg---packtools/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scrolltech---apphelpers/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SEED-platform---py-seed/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sipwise---repoapi/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/skorokithakis---shortuuid/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SoftwareHeritage---swh-lister/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sunpy---radiospectra/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/turicas---rows/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ufo-kit---concert/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---atticmatic/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---borgmatic/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ynikitenko---lena/fragment/ws20_ss2.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/zimeon---ocfl-py/fragment/ws20_ss2.pkl
+Building vector for repos, ws = 20, ss = 2: 0it [00:00, ?it/s]Building vector for repos, ws = 20, ss = 2: 8it [00:00, 77.90it/s]Building vector for repos, ws = 20, ss = 2: 16it [00:00, 76.11it/s]Building vector for repos, ws = 20, ss = 2: 24it [00:00, 71.30it/s]Building vector for repos, ws = 20, ss = 2: 32it [00:00, 68.47it/s]Building vector for repos, ws = 20, ss = 2: 39it [00:00, 65.45it/s]Building vector for repos, ws = 20, ss = 2: 43it [00:00, 67.77it/s]
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ansible-security---ansible_collections.ibm.qradar/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/awsteiner---o2sclpy/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bastikr---boolean/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bazaar-projects---docopt-ng/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/burgerbecky---makeprojects/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/champax---pysolbase/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cloudmesh---cloudmesh-common/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/commandline---flashbake/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cpburnz---python-sql-parameters/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/eykd---prestoplot/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/gopad---gopad-python/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ikus060---rdiffweb/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/infobloxopen---infoblox-client/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/jaywink---federation/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/kirankotari---shconfparser/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mozilla---relman-auto-nag/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/MozillaSecurity---lithium/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mwatts15---rdflib/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/neo4j---neo4j-python-driver/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---cinder/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---neutron-lib/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ossobv---planb/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-cachetools/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-dateutil/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-zope/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pre-commit---pre-commit/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rak-n-rok---Krake/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/redhat-openstack---infrared/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rougier---matplotlib/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/santoshphilip---eppy/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scieloorg---packtools/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scrolltech---apphelpers/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SEED-platform---py-seed/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sipwise---repoapi/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/skorokithakis---shortuuid/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SoftwareHeritage---swh-lister/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sunpy---radiospectra/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/turicas---rows/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ufo-kit---concert/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---atticmatic/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---borgmatic/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ynikitenko---lena/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/zimeon---ocfl-py/vector/ws20_ss2.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ansible-security---ansible_collections.ibm.qradar/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/awsteiner---o2sclpy/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bastikr---boolean/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bazaar-projects---docopt-ng/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/burgerbecky---makeprojects/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/champax---pysolbase/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cloudmesh---cloudmesh-common/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/commandline---flashbake/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cpburnz---python-sql-parameters/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/eykd---prestoplot/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/gopad---gopad-python/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ikus060---rdiffweb/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/infobloxopen---infoblox-client/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/jaywink---federation/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/kirankotari---shconfparser/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mozilla---relman-auto-nag/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/MozillaSecurity---lithium/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mwatts15---rdflib/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/neo4j---neo4j-python-driver/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---cinder/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---neutron-lib/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ossobv---planb/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-cachetools/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-dateutil/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-zope/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pre-commit---pre-commit/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rak-n-rok---Krake/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/redhat-openstack---infrared/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rougier---matplotlib/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/santoshphilip---eppy/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scieloorg---packtools/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scrolltech---apphelpers/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SEED-platform---py-seed/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sipwise---repoapi/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/skorokithakis---shortuuid/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SoftwareHeritage---swh-lister/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sunpy---radiospectra/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/turicas---rows/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ufo-kit---concert/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---atticmatic/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---borgmatic/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ynikitenko---lena/fragment/_bl_ws20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/zimeon---ocfl-py/fragment/_bl_ws20.pkl
+Building vector for bl, ws = 20: 0it [00:00, ?it/s]Building vector for bl, ws = 20: 28it [00:00, 277.97it/s]Building vector for bl, ws = 20: 43it [00:00, 248.71it/s]
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ansible-security---ansible_collections.ibm.qradar/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/awsteiner---o2sclpy/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bastikr---boolean/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bazaar-projects---docopt-ng/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/burgerbecky---makeprojects/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/champax---pysolbase/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cloudmesh---cloudmesh-common/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/commandline---flashbake/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cpburnz---python-sql-parameters/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/eykd---prestoplot/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/gopad---gopad-python/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ikus060---rdiffweb/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/infobloxopen---infoblox-client/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/jaywink---federation/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/kirankotari---shconfparser/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mozilla---relman-auto-nag/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/MozillaSecurity---lithium/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mwatts15---rdflib/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/neo4j---neo4j-python-driver/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---cinder/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---neutron-lib/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ossobv---planb/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-cachetools/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-dateutil/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-zope/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pre-commit---pre-commit/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rak-n-rok---Krake/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/redhat-openstack---infrared/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rougier---matplotlib/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/santoshphilip---eppy/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scieloorg---packtools/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scrolltech---apphelpers/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SEED-platform---py-seed/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sipwise---repoapi/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/skorokithakis---shortuuid/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SoftwareHeritage---swh-lister/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sunpy---radiospectra/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/turicas---rows/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ufo-kit---concert/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---atticmatic/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---borgmatic/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ynikitenko---lena/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/zimeon---ocfl-py/vector/_bl_ws20.bge-small.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ansible-security---ansible_collections.ibm.qradar/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/awsteiner---o2sclpy/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bastikr---boolean/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/bazaar-projects---docopt-ng/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/burgerbecky---makeprojects/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/champax---pysolbase/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cloudmesh---cloudmesh-common/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/commandline---flashbake/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/cpburnz---python-sql-parameters/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/eykd---prestoplot/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/gopad---gopad-python/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ikus060---rdiffweb/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/infobloxopen---infoblox-client/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/jaywink---federation/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/kirankotari---shconfparser/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mozilla---relman-auto-nag/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/MozillaSecurity---lithium/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/mwatts15---rdflib/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/neo4j---neo4j-python-driver/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---cinder/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/openstack---neutron-lib/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ossobv---planb/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-cachetools/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-python-dateutil/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pexip---os-zope/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/pre-commit---pre-commit/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rak-n-rok---Krake/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/redhat-openstack---infrared/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/rougier---matplotlib/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/santoshphilip---eppy/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scieloorg---packtools/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/scrolltech---apphelpers/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SEED-platform---py-seed/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sipwise---repoapi/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/skorokithakis---shortuuid/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/SoftwareHeritage---swh-lister/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/sunpy---radiospectra/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/turicas---rows/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ufo-kit---concert/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---atticmatic/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/witten---borgmatic/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/ynikitenko---lena/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Reuse cache file /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/.cache/codereval/zimeon---ocfl-py/retrieval/_bl_ws20.ws20_ss2.bge-small.frag20.pkl
+Searching code for bl: 0it [00:00, ?it/s]Searching code for bl: 0it [00:00, ?it/s]
+Building prompt, mode = generate
+Existed prompts: 0
+0it [00:00, ?it/s]1it [00:00, 11.37it/s]2it [00:00,  2.60it/s]4it [00:00,  4.93it/s]4it [00:00,  4.87it/s]8it [00:00,  8.93it/s]13it [00:00, 13.17it/s]18it [00:01, 17.11it/s]19it [00:01, 17.73it/s]21it [00:01, 18.38it/s]28it [00:01, 23.12it/s]28it [00:01, 22.94it/s]29it [00:01, 22.89it/s]30it [00:01, 22.05it/s]46it [00:01, 29.51it/s]47it [00:01, 29.55it/s]48it [00:02, 21.37it/s]49it [00:02, 21.55it/s]50it [00:02, 18.97it/s]69it [00:03, 22.55it/s]71it [00:05, 13.02it/s]72it [00:05, 13.02it/s]73it [00:05, 13.08it/s]87it [00:05, 15.33it/s]94it [00:06, 15.41it/s]109it [00:06, 16.03it/s]114it [00:07, 16.28it/s]124it [00:07, 16.51it/s]152it [00:08, 18.94it/s]153it [00:08, 18.95it/s]154it [00:08, 18.96it/s]167it [00:08, 19.97it/s]168it [00:08, 20.06it/s]169it [00:08, 20.09it/s]170it [00:08, 20.15it/s]172it [00:08, 20.32it/s]175it [00:08, 20.54it/s]175it [00:08, 19.95it/s]176it [00:08, 19.61it/s]177it [00:09, 19.58it/s]177it [00:09, 19.56it/s]177it [00:09, 19.54it/s]192it [00:09, 20.29it/s]207it [00:09, 21.38it/s]207it [00:09, 21.38it/s]
+Tokenizer initialized
+/mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/results/runs/codereval/20261124_020759_958/prompt/_ours.graph_bge-small_69f15cae_dfa2b9ab.retrieval_bge-small_ws20_ss2.prompt_frag5_chain5.len4096.29161788.jsonl
+/mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/results/runs/codereval/20261124_020759_958/prediction/_ours.graph_bge-small_69f15cae_dfa2b9ab.retrieval_bge-small_ws20_ss2.prompt_frag5_chain5.deepseek-chat_len4096.29161788/raw.jsonl
+We are going to call the deepseek-chat on codereval! If this should not happen, press ctrl+c to exit. 15 seconds remaining:   0%|          | 0/5 [00:00<?, ?it/s]We are going to call the deepseek-chat on codereval! If this should not happen, press ctrl+c to exit. 15 seconds remaining:  20%|██        | 1/5 [00:01<00:04,  1.00s/it]We are going to call the deepseek-chat on codereval! If this should not happen, press ctrl+c to exit. 15 seconds remaining:  40%|████      | 2/5 [00:02<00:03,  1.00s/it]We are going to call the deepseek-chat on codereval! If this should not happen, press ctrl+c to exit. 15 seconds remaining:  60%|██████    | 3/5 [00:03<00:02,  1.00s/it]We are going to call the deepseek-chat on codereval! If this should not happen, press ctrl+c to exit. 15 seconds remaining:  80%|████████  | 4/5 [00:04<00:01,  1.00s/it]We are going to call the deepseek-chat on codereval! If this should not happen, press ctrl+c to exit. 15 seconds remaining: 100%|██████████| 5/5 [00:05<00:00,  1.00s/it]We are going to call the deepseek-chat on codereval! If this should not happen, press ctrl+c to exit. 15 seconds remaining: 100%|██████████| 5/5 [00:05<00:00,  1.00s/it]
+LLM initialized
+Generating completions using deepseek-chat:   0%|          | 0/207 [00:00<?, ?it/s]Generating completions using deepseek-chat:   0%|          | 1/207 [00:01<05:54,  1.72s/it]Generating completions using deepseek-chat:   1%|          | 2/207 [00:02<03:03,  1.11it/s]Generating completions using deepseek-chat:   2%|▏         | 5/207 [00:02<01:05,  3.07it/s]Generating completions using deepseek-chat:   3%|▎         | 7/207 [00:02<00:52,  3.80it/s]Generating completions using deepseek-chat:   4%|▍         | 9/207 [00:02<00:38,  5.18it/s]Generating completions using deepseek-chat:   5%|▌         | 11/207 [00:02<00:28,  6.95it/s]Generating completions using deepseek-chat:   7%|▋         | 14/207 [00:03<00:19,  9.80it/s]Generating completions using deepseek-chat:   8%|▊         | 16/207 [00:03<00:16, 11.35it/s]Generating completions using deepseek-chat:   9%|▉         | 19/207 [00:03<00:13, 13.77it/s]Generating completions using deepseek-chat:  11%|█         | 22/207 [00:03<00:11, 15.82it/s]Generating completions using deepseek-chat:  12%|█▏        | 24/207 [00:03<00:12, 14.77it/s]Generating completions using deepseek-chat:  13%|█▎        | 26/207 [00:03<00:12, 14.36it/s]Generating completions using deepseek-chat:  14%|█▎        | 28/207 [00:03<00:13, 13.20it/s]Generating completions using deepseek-chat:  14%|█▍        | 30/207 [00:04<00:15, 11.40it/s]Generating completions using deepseek-chat:  15%|█▌        | 32/207 [00:04<00:15, 11.53it/s]Generating completions using deepseek-chat:  16%|█▋        | 34/207 [00:04<00:15, 11.27it/s]Generating completions using deepseek-chat:  17%|█▋        | 36/207 [00:04<00:17,  9.93it/s]Generating completions using deepseek-chat:  18%|█▊        | 38/207 [00:05<00:18,  8.99it/s]Generating completions using deepseek-chat:  19%|█▉        | 40/207 [00:05<00:16,  9.95it/s]Generating completions using deepseek-chat:  20%|██        | 42/207 [00:05<00:23,  7.12it/s]Generating completions using deepseek-chat:  21%|██▏       | 44/207 [00:05<00:21,  7.67it/s]Generating completions using deepseek-chat:  22%|██▏       | 46/207 [00:06<00:17,  9.01it/s]Generating completions using deepseek-chat:  23%|██▎       | 48/207 [00:06<00:15, 10.27it/s]Generating completions using deepseek-chat:  24%|██▍       | 50/207 [00:06<00:18,  8.35it/s]Generating completions using deepseek-chat:  25%|██▌       | 52/207 [00:06<00:16,  9.19it/s]Generating completions using deepseek-chat:  26%|██▌       | 54/207 [00:07<00:20,  7.39it/s]Generating completions using deepseek-chat:  27%|██▋       | 55/207 [00:07<00:21,  7.08it/s]Generating completions using deepseek-chat:  27%|██▋       | 56/207 [00:07<00:21,  6.93it/s]Generating completions using deepseek-chat:  28%|██▊       | 57/207 [00:07<00:21,  7.00it/s]Generating completions using deepseek-chat:  29%|██▊       | 59/207 [00:07<00:17,  8.29it/s]Generating completions using deepseek-chat:  29%|██▉       | 60/207 [00:07<00:17,  8.25it/s]Generating completions using deepseek-chat:  29%|██▉       | 61/207 [00:08<00:20,  7.02it/s]Generating completions using deepseek-chat:  30%|██▉       | 62/207 [00:08<00:22,  6.48it/s]Generating completions using deepseek-chat:  30%|███       | 63/207 [00:08<00:23,  6.18it/s]Generating completions using deepseek-chat:  31%|███       | 64/207 [00:08<00:27,  5.29it/s]Generating completions using deepseek-chat:  31%|███▏      | 65/207 [00:08<00:24,  5.88it/s]Generating completions using deepseek-chat:  32%|███▏      | 66/207 [00:08<00:21,  6.56it/s]Generating completions using deepseek-chat:  32%|███▏      | 67/207 [00:09<00:21,  6.64it/s]Generating completions using deepseek-chat:  33%|███▎      | 69/207 [00:09<00:16,  8.26it/s]Generating completions using deepseek-chat:  34%|███▍      | 71/207 [00:09<00:14,  9.12it/s]Generating completions using deepseek-chat:  35%|███▍      | 72/207 [00:09<00:26,  5.17it/s]Generating completions using deepseek-chat:  36%|███▌      | 74/207 [00:10<00:20,  6.62it/s]Generating completions using deepseek-chat:  36%|███▌      | 75/207 [00:10<00:19,  6.79it/s]Generating completions using deepseek-chat:  37%|███▋      | 76/207 [00:10<00:20,  6.33it/s]Generating completions using deepseek-chat:  37%|███▋      | 77/207 [00:10<00:22,  5.88it/s]Generating completions using deepseek-chat:  38%|███▊      | 78/207 [00:10<00:20,  6.30it/s]Generating completions using deepseek-chat:  38%|███▊      | 79/207 [00:10<00:19,  6.68it/s]Generating completions using deepseek-chat:  39%|███▊      | 80/207 [00:11<00:21,  5.80it/s]Generating completions using deepseek-chat:  39%|███▉      | 81/207 [00:11<00:21,  5.85it/s]Generating completions using deepseek-chat:  40%|████      | 83/207 [00:11<00:17,  7.23it/s]Generating completions using deepseek-chat:  41%|████      | 84/207 [00:11<00:18,  6.71it/s]Generating completions using deepseek-chat:  41%|████      | 85/207 [00:11<00:17,  7.04it/s]Generating completions using deepseek-chat:  42%|████▏     | 86/207 [00:11<00:20,  6.02it/s]Generating completions using deepseek-chat:  42%|████▏     | 87/207 [00:12<00:20,  5.79it/s]Generating completions using deepseek-chat:  43%|████▎     | 88/207 [00:12<00:23,  5.01it/s]Generating completions using deepseek-chat:  43%|████▎     | 89/207 [00:12<00:23,  5.13it/s]Generating completions using deepseek-chat:  43%|████▎     | 90/207 [00:12<00:22,  5.19it/s]Generating completions using deepseek-chat:  44%|████▍     | 91/207 [00:13<00:23,  4.93it/s]Generating completions using deepseek-chat:  44%|████▍     | 92/207 [00:13<00:23,  4.91it/s]Generating completions using deepseek-chat:  45%|████▍     | 93/207 [00:13<00:22,  4.98it/s]Generating completions using deepseek-chat:  45%|████▌     | 94/207 [00:13<00:23,  4.85it/s]Generating completions using deepseek-chat:  46%|████▌     | 95/207 [00:13<00:23,  4.77it/s]Generating completions using deepseek-chat:  46%|████▋     | 96/207 [00:14<00:25,  4.34it/s]Generating completions using deepseek-chat:  47%|████▋     | 97/207 [00:14<00:23,  4.71it/s]Generating completions using deepseek-chat:  47%|████▋     | 98/207 [00:14<00:19,  5.50it/s]Generating completions using deepseek-chat:  48%|████▊     | 99/207 [00:14<00:19,  5.41it/s]Generating completions using deepseek-chat:  48%|████▊     | 100/207 [00:14<00:21,  5.08it/s]Generating completions using deepseek-chat:  49%|████▉     | 101/207 [00:15<00:23,  4.46it/s]Generating completions using deepseek-chat:  49%|████▉     | 102/207 [00:15<00:23,  4.53it/s]Generating completions using deepseek-chat:  50%|████▉     | 103/207 [00:15<00:22,  4.68it/s]Generating completions using deepseek-chat:  50%|█████     | 104/207 [00:15<00:21,  4.73it/s]Generating completions using deepseek-chat:  51%|█████     | 105/207 [00:15<00:22,  4.61it/s]Generating completions using deepseek-chat:  51%|█████     | 106/207 [00:16<00:22,  4.54it/s]Generating completions using deepseek-chat:  52%|█████▏    | 107/207 [00:16<00:26,  3.81it/s]Generating completions using deepseek-chat:  52%|█████▏    | 108/207 [00:16<00:24,  3.99it/s]Generating completions using deepseek-chat:  53%|█████▎    | 109/207 [00:17<00:24,  4.01it/s]Generating completions using deepseek-chat:  53%|█████▎    | 110/207 [00:17<00:23,  4.07it/s]Generating completions using deepseek-chat:  54%|█████▎    | 111/207 [00:17<00:24,  3.86it/s]Generating completions using deepseek-chat:  54%|█████▍    | 112/207 [00:17<00:25,  3.72it/s]Generating completions using deepseek-chat:  55%|█████▍    | 113/207 [00:18<00:24,  3.84it/s]Generating completions using deepseek-chat:  55%|█████▌    | 114/207 [00:18<00:23,  4.03it/s]Generating completions using deepseek-chat:  56%|█████▌    | 115/207 [00:18<00:29,  3.08it/s]Generating completions using deepseek-chat:  56%|█████▌    | 116/207 [00:19<00:28,  3.19it/s]Generating completions using deepseek-chat:  57%|█████▋    | 117/207 [00:19<00:27,  3.32it/s]Generating completions using deepseek-chat:  57%|█████▋    | 118/207 [00:19<00:24,  3.56it/s]Generating completions using deepseek-chat:  57%|█████▋    | 119/207 [00:19<00:24,  3.59it/s]Generating completions using deepseek-chat:  58%|█████▊    | 120/207 [00:20<00:23,  3.70it/s]Generating completions using deepseek-chat:  58%|█████▊    | 121/207 [00:20<00:22,  3.79it/s]Generating completions using deepseek-chat:  59%|█████▉    | 122/207 [00:20<00:23,  3.69it/s]Generating completions using deepseek-chat:  59%|█████▉    | 123/207 [00:20<00:22,  3.68it/s]Generating completions using deepseek-chat:  60%|█████▉    | 124/207 [00:21<00:23,  3.59it/s]Generating completions using deepseek-chat:  60%|██████    | 125/207 [00:21<00:21,  3.84it/s]Generating completions using deepseek-chat:  61%|██████    | 126/207 [00:21<00:20,  4.01it/s]Generating completions using deepseek-chat:  61%|██████▏   | 127/207 [00:21<00:20,  3.86it/s]Generating completions using deepseek-chat:  62%|██████▏   | 128/207 [00:22<00:20,  3.93it/s]Generating completions using deepseek-chat:  62%|██████▏   | 129/207 [00:22<00:19,  3.90it/s]Generating completions using deepseek-chat:  63%|██████▎   | 130/207 [00:22<00:20,  3.74it/s]Generating completions using deepseek-chat:  63%|██████▎   | 131/207 [00:23<00:20,  3.76it/s]Generating completions using deepseek-chat:  64%|██████▍   | 132/207 [00:23<00:23,  3.20it/s]Generating completions using deepseek-chat:  64%|██████▍   | 133/207 [00:23<00:22,  3.36it/s]Generating completions using deepseek-chat:  65%|██████▍   | 134/207 [00:24<00:21,  3.38it/s]Generating completions using deepseek-chat:  65%|██████▌   | 135/207 [00:24<00:19,  3.63it/s]Generating completions using deepseek-chat:  66%|██████▌   | 136/207 [00:24<00:17,  4.16it/s]Generating completions using deepseek-chat:  66%|██████▌   | 137/207 [00:25<00:26,  2.63it/s]Generating completions using deepseek-chat:  67%|██████▋   | 138/207 [00:25<00:23,  2.91it/s]Generating completions using deepseek-chat:  67%|██████▋   | 139/207 [00:25<00:20,  3.33it/s]Generating completions using deepseek-chat:  68%|██████▊   | 140/207 [00:25<00:17,  3.81it/s]Generating completions using deepseek-chat:  68%|██████▊   | 141/207 [00:26<00:18,  3.47it/s]Generating completions using deepseek-chat:  69%|██████▊   | 142/207 [00:26<00:18,  3.46it/s]Generating completions using deepseek-chat:  69%|██████▉   | 143/207 [00:26<00:17,  3.57it/s]Generating completions using deepseek-chat:  70%|██████▉   | 144/207 [00:26<00:14,  4.21it/s]Generating completions using deepseek-chat:  70%|███████   | 145/207 [00:26<00:13,  4.43it/s]Generating completions using deepseek-chat:  71%|███████   | 146/207 [00:27<00:16,  3.63it/s]Generating completions using deepseek-chat:  71%|███████   | 147/207 [00:27<00:17,  3.40it/s]Generating completions using deepseek-chat:  71%|███████▏  | 148/207 [00:28<00:18,  3.13it/s]Generating completions using deepseek-chat:  72%|███████▏  | 149/207 [00:28<00:17,  3.28it/s]Generating completions using deepseek-chat:  72%|███████▏  | 150/207 [00:28<00:21,  2.64it/s]Generating completions using deepseek-chat:  73%|███████▎  | 151/207 [00:29<00:20,  2.73it/s]Generating completions using deepseek-chat:  73%|███████▎  | 152/207 [00:29<00:18,  2.99it/s]Generating completions using deepseek-chat:  74%|███████▍  | 153/207 [00:29<00:15,  3.47it/s]Generating completions using deepseek-chat:  74%|███████▍  | 154/207 [00:29<00:12,  4.08it/s]Generating completions using deepseek-chat:  75%|███████▍  | 155/207 [00:29<00:11,  4.48it/s]Generating completions using deepseek-chat:  75%|███████▌  | 156/207 [00:30<00:13,  3.81it/s]Generating completions using deepseek-chat:  76%|███████▌  | 157/207 [00:30<00:12,  3.92it/s]Generating completions using deepseek-chat:  76%|███████▋  | 158/207 [00:30<00:12,  3.97it/s]Generating completions using deepseek-chat:  77%|███████▋  | 159/207 [00:31<00:11,  4.06it/s]Generating completions using deepseek-chat:  77%|███████▋  | 160/207 [00:31<00:11,  4.26it/s]Generating completions using deepseek-chat:  78%|███████▊  | 161/207 [00:31<00:13,  3.52it/s]Generating completions using deepseek-chat:  78%|███████▊  | 162/207 [00:31<00:11,  3.82it/s]Generating completions using deepseek-chat:  79%|███████▊  | 163/207 [00:32<00:11,  3.89it/s]Generating completions using deepseek-chat:  79%|███████▉  | 164/207 [00:32<00:11,  3.87it/s]Generating completions using deepseek-chat:  80%|███████▉  | 165/207 [00:32<00:09,  4.34it/s]Generating completions using deepseek-chat:  80%|████████  | 166/207 [00:32<00:08,  4.66it/s]Generating completions using deepseek-chat:  81%|████████  | 167/207 [00:33<00:10,  3.84it/s]Generating completions using deepseek-chat:  81%|████████  | 168/207 [00:33<00:11,  3.47it/s]Generating completions using deepseek-chat:  82%|████████▏ | 169/207 [00:33<00:10,  3.69it/s]Generating completions using deepseek-chat:  82%|████████▏ | 170/207 [00:33<00:09,  3.92it/s]Generating completions using deepseek-chat:  83%|████████▎ | 171/207 [00:34<00:11,  3.19it/s]Generating completions using deepseek-chat:  83%|████████▎ | 172/207 [00:34<00:10,  3.23it/s]Generating completions using deepseek-chat:  84%|████████▎ | 173/207 [00:34<00:09,  3.67it/s]Generating completions using deepseek-chat:  84%|████████▍ | 174/207 [00:35<00:08,  4.06it/s]Generating completions using deepseek-chat:  85%|████████▍ | 175/207 [00:35<00:07,  4.24it/s]Generating completions using deepseek-chat:  85%|████████▌ | 176/207 [00:35<00:09,  3.23it/s]Generating completions using deepseek-chat:  86%|████████▌ | 177/207 [00:36<00:09,  3.15it/s]Generating completions using deepseek-chat:  86%|████████▌ | 178/207 [00:36<00:08,  3.57it/s]Generating completions using deepseek-chat:  86%|████████▋ | 179/207 [00:37<00:13,  2.06it/s]Generating completions using deepseek-chat:  87%|████████▋ | 180/207 [00:37<00:11,  2.28it/s]Generating completions using deepseek-chat:  87%|████████▋ | 181/207 [00:37<00:10,  2.58it/s]Generating completions using deepseek-chat:  88%|████████▊ | 182/207 [00:38<00:09,  2.59it/s]Generating completions using deepseek-chat:  88%|████████▊ | 183/207 [00:38<00:09,  2.62it/s]Generating completions using deepseek-chat:  89%|████████▉ | 184/207 [00:38<00:08,  2.63it/s]Generating completions using deepseek-chat:  89%|████████▉ | 185/207 [00:39<00:08,  2.62it/s]Generating completions using deepseek-chat:  90%|████████▉ | 186/207 [00:39<00:09,  2.31it/s]Generating completions using deepseek-chat:  90%|█████████ | 187/207 [00:40<00:08,  2.24it/s]Generating completions using deepseek-chat:  91%|█████████ | 188/207 [00:40<00:07,  2.43it/s]Generating completions using deepseek-chat:  91%|█████████▏| 189/207 [00:41<00:07,  2.44it/s]Generating completions using deepseek-chat:  92%|█████████▏| 190/207 [00:41<00:06,  2.63it/s]Generating completions using deepseek-chat:  92%|█████████▏| 191/207 [00:41<00:06,  2.54it/s]Generating completions using deepseek-chat:  93%|█████████▎| 192/207 [00:42<00:06,  2.33it/s]Generating completions using deepseek-chat:  93%|█████████▎| 193/207 [00:42<00:05,  2.36it/s]Generating completions using deepseek-chat:  94%|█████████▎| 194/207 [00:43<00:05,  2.40it/s]Generating completions using deepseek-chat:  94%|█████████▍| 195/207 [00:43<00:04,  2.41it/s]Generating completions using deepseek-chat:  95%|█████████▍| 196/207 [00:43<00:04,  2.47it/s]Generating completions using deepseek-chat:  95%|█████████▌| 197/207 [00:44<00:04,  2.44it/s]Generating completions using deepseek-chat:  96%|█████████▌| 198/207 [00:44<00:03,  2.57it/s]Generating completions using deepseek-chat:  96%|█████████▌| 199/207 [00:45<00:03,  2.47it/s]Generating completions using deepseek-chat:  97%|█████████▋| 200/207 [00:45<00:02,  2.42it/s]Generating completions using deepseek-chat:  97%|█████████▋| 201/207 [00:46<00:02,  2.37it/s]Generating completions using deepseek-chat:  98%|█████████▊| 202/207 [00:46<00:02,  2.28it/s]Generating completions using deepseek-chat:  98%|█████████▊| 203/207 [00:46<00:01,  2.48it/s]Generating completions using deepseek-chat:  99%|█████████▊| 204/207 [00:48<00:02,  1.10it/s]Generating completions using deepseek-chat:  99%|█████████▉| 205/207 [00:51<00:02,  1.27s/it]Generating completions using deepseek-chat: 100%|█████████▉| 206/207 [00:51<00:01,  1.08s/it]Generating completions using deepseek-chat: 100%|██████████| 207/207 [00:53<00:00,  1.17s/it]Generating completions using deepseek-chat: 100%|██████████| 207/207 [00:53<00:00,  3.90it/s]
+LLM freed
+Extracting codes...
+Evaluating codes...
+====================Start evaluating====================
+  0%|          | 0/207 [00:00<?, ?it/s]  0%|          | 0/207 [00:00<?, ?it/s]  0%|          | 0/207 [00:01<?, ?it/s]  0%|          | 0/207 [00:02<?, ?it/s]  0%|          | 0/207 [00:03<?, ?it/s]  0%|          | 0/207 [00:04<?, ?it/s]  0%|          | 0/207 [00:05<?, ?it/s]  0%|          | 0/207 [00:06<?, ?it/s]  0%|          | 0/207 [00:07<?, ?it/s]  0%|          | 0/207 [00:08<?, ?it/s]  0%|          | 0/207 [00:09<?, ?it/s]  0%|          | 0/207 [00:10<?, ?it/s]  0%|          | 0/207 [00:11<?, ?it/s]  0%|          | 0/207 [00:12<?, ?it/s]  0%|          | 0/207 [00:13<?, ?it/s]  0%|          | 0/207 [00:14<?, ?it/s]  0%|          | 0/207 [00:15<?, ?it/s]  0%|          | 0/207 [00:16<?, ?it/s]  0%|          | 0/207 [00:17<?, ?it/s]  0%|          | 0/207 [00:18<?, ?it/s]  0%|          | 0/207 [00:19<?, ?it/s]  0%|          | 0/207 [00:20<?, ?it/s]  0%|          | 0/207 [00:21<?, ?it/s]  0%|          | 0/207 [00:22<?, ?it/s]  0%|          | 0/207 [00:23<?, ?it/s]  0%|          | 0/207 [00:24<?, ?it/s]  0%|          | 0/207 [00:25<?, ?it/s]  0%|          | 0/207 [00:26<?, ?it/s]  0%|          | 0/207 [00:27<?, ?it/s]  0%|          | 0/207 [00:28<?, ?it/s]  0%|          | 0/207 [00:29<?, ?it/s]  0%|          | 0/207 [00:30<?, ?it/s]  0%|          | 0/207 [00:31<?, ?it/s]  0%|          | 0/207 [00:32<?, ?it/s]  0%|          | 0/207 [00:33<?, ?it/s]  0%|          | 0/207 [00:34<?, ?it/s]  0%|          | 0/207 [00:35<?, ?it/s]  0%|          | 0/207 [00:36<?, ?it/s]  0%|          | 0/207 [00:37<?, ?it/s]  0%|          | 0/207 [00:38<?, ?it/s]  0%|          | 0/207 [00:39<?, ?it/s]  0%|          | 0/207 [00:40<?, ?it/s]  0%|          | 0/207 [00:41<?, ?it/s]  0%|          | 0/207 [00:42<?, ?it/s]  0%|          | 0/207 [00:43<?, ?it/s]  0%|          | 0/207 [00:44<?, ?it/s]  0%|          | 0/207 [00:45<?, ?it/s]  0%|          | 0/207 [00:46<?, ?it/s]  0%|          | 0/207 [00:47<?, ?it/s]  0%|          | 0/207 [00:48<?, ?it/s]  0%|          | 0/207 [00:49<?, ?it/s]  0%|          | 0/207 [00:50<?, ?it/s]  0%|          | 0/207 [00:51<?, ?it/s]  0%|          | 0/207 [00:52<?, ?it/s]  0%|          | 0/207 [00:54<?, ?it/s]  0%|          | 0/207 [00:55<?, ?it/s]  0%|          | 0/207 [00:56<?, ?it/s]  0%|          | 0/207 [00:57<?, ?it/s]  0%|          | 0/207 [00:58<?, ?it/s]  0%|          | 0/207 [00:59<?, ?it/s]  0%|          | 0/207 [01:00<?, ?it/s]  0%|          | 0/207 [01:01<?, ?it/s]  0%|          | 0/207 [01:02<?, ?it/s]  0%|          | 0/207 [01:03<?, ?it/s]  0%|          | 0/207 [01:04<?, ?it/s]  0%|          | 0/207 [01:05<?, ?it/s]  0%|          | 0/207 [01:06<?, ?it/s]  0%|          | 0/207 [01:07<?, ?it/s]  0%|          | 0/207 [01:08<?, ?it/s]  0%|          | 0/207 [01:09<?, ?it/s]  0%|          | 0/207 [01:10<?, ?it/s]  0%|          | 0/207 [01:11<?, ?it/s]  0%|          | 0/207 [01:12<?, ?it/s]  0%|          | 0/207 [01:13<?, ?it/s]  0%|          | 0/207 [01:14<?, ?it/s]  0%|          | 0/207 [01:15<?, ?it/s]  0%|          | 0/207 [01:16<?, ?it/s]  0%|          | 0/207 [01:17<?, ?it/s]  0%|          | 0/207 [01:18<?, ?it/s]  0%|          | 0/207 [01:19<?, ?it/s]  0%|          | 0/207 [01:20<?, ?it/s]  0%|          | 0/207 [01:21<?, ?it/s]  0%|          | 0/207 [01:22<?, ?it/s]  0%|          | 0/207 [01:23<?, ?it/s]  0%|          | 0/207 [01:24<?, ?it/s]  0%|          | 0/207 [01:25<?, ?it/s]  0%|          | 0/207 [01:26<?, ?it/s]  0%|          | 0/207 [01:27<?, ?it/s]  0%|          | 0/207 [01:28<?, ?it/s]  0%|          | 0/207 [01:29<?, ?it/s]  0%|          | 0/207 [01:30<?, ?it/s]  0%|          | 0/207 [01:30<?, ?it/s]
+No sample is evaluated in the past 90 seconds. We'll Re-run the evaluating script.
+Finish evaluation, check result in /mnt/c/Users/david despo/Documents/facultad/2026/1_semester/tesis/workspace/repoScope/system/RepoScope/results/runs/codereval/20261124_020759_958/prediction/_ours.graph_bge-small_69f15cae_dfa2b9ab.retrieval_bge-small_ws20_ss2.prompt_frag5_chain5.deepseek-chat_len4096.29161788/evaluated.jsonl
+{}

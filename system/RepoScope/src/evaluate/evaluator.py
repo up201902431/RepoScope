@@ -2,6 +2,7 @@ import os
 import shutil
 import subprocess
 import sys
+import tempfile
 import time
 from abc import abstractmethod
 from collections import defaultdict
@@ -24,27 +25,28 @@ class BaseEvaluator:
         pass
 
     @staticmethod
-    def wait_process_and_report_result(process, copy_config: bool = True, result_path: str = '', prediction_path: str = '', task_key: str = ''):
+    def wait_process_and_report_result(process, copy_config: bool = True, result_path: str = '', prediction_path: str = '', task_key: str = '', observation_result_path: str = ''):
         print('=' * 20 + 'Start evaluating' + '=' * 20)
         log_path = FilePathBuilder.evaluate_log_path(result_path)
         total = len(Tools.load_jsonl(prediction_path))
         bar = tqdm(total=total)
-        ninety_seconds_ago = time.time()
-        ninety_seconds_ago_num = 0
+        observed_result_path = observation_result_path or result_path
+        no_progress_since = time.time()
+        no_progress_count = 0
         while True:
-            current = len(set(map(lambda x: x[task_key], Tools.load_jsonl(result_path))))
+            current = len(set(map(lambda x: x[task_key], Tools.load_jsonl(observed_result_path))))
             bar.n = current
             bar.refresh()
             if current >= total:
                 break
-            if time.time() - ninety_seconds_ago >= 90:
-                if current == ninety_seconds_ago_num:
-                    print(f'No sample is evaluated in the past 90 seconds. We\'ll Re-run the evaluating script.')
+            if time.time() - no_progress_since >= 600:
+                if current == no_progress_count:
+                    print(f'No sample is evaluated in the past 600 seconds. We\'ll Re-run the evaluating script.')
                     process.kill()
                     process.wait()
                     return False
-                ninety_seconds_ago = time.time()
-                ninety_seconds_ago_num = current
+                no_progress_since = time.time()
+                no_progress_count = current
             time.sleep(1)
         bar.close()
         stdout, stderr = process.communicate()
@@ -63,19 +65,32 @@ class CoderEvalEvaluator(BaseEvaluator):
         predictions = Tools.load_jsonl(prediction_path)
         n = len(predictions[0]['generate_results'])
         Tools.dump_jsonl([], result_path)
-        base_eval_path = '/home/travis/builds'
-        proc = subprocess.Popen(
-            ['docker', 'run', '--rm', '--name', 'code_graph_codereval',
-             '-w', base_eval_path,
-             '-v', f'{prediction_path}:{base_eval_path}/generation.jsonl',
-             '-v', f'{result_path}:{base_eval_path}/generation.jsonl_out.jsonl',
-             'codereval', '/bin/bash',
-             '-c', f'python {base_eval_path}/PythonExec.py {base_eval_path}/generation.jsonl {n}'
-             ], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=False, text=True
-        )
-        cls.wait_process_and_report_result(
-            proc, copy_config=copy_config, result_path=result_path, prediction_path=prediction_path, task_key='_id'
-        )
+        with tempfile.TemporaryDirectory(prefix='reposcope-codereval-', dir='/tmp') as staging_dir:
+            staged_prediction_path = os.path.join(staging_dir, 'generation.jsonl')
+            staged_result_path = os.path.join(staging_dir, 'generation.jsonl_out.jsonl')
+            shutil.copyfile(prediction_path, staged_prediction_path)
+            Tools.dump_jsonl([], staged_result_path)
+
+            base_eval_path = '/home/travis/builds'
+            proc = subprocess.Popen(
+                ['docker', 'run', '--rm', '--name', 'code_graph_codereval',
+                 '-w', base_eval_path,
+                 '-v', f'{staged_prediction_path}:{base_eval_path}/generation.jsonl:ro',
+                 '-v', f'{staged_result_path}:{base_eval_path}/generation.jsonl_out.jsonl',
+                 'codereval', '/bin/bash',
+                 '-c', f'python {base_eval_path}/PythonExec.py {base_eval_path}/generation.jsonl {n}'
+                 ], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=False, text=True
+            )
+            success = cls.wait_process_and_report_result(
+                proc,
+                copy_config=copy_config,
+                result_path=result_path,
+                prediction_path=staged_prediction_path,
+                task_key='_id',
+                observation_result_path=staged_result_path,
+            )
+            if success:
+                shutil.copyfile(staged_result_path, result_path)
 
 class DevEvalEvaluator(BaseEvaluator):
     @classmethod

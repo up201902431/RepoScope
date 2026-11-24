@@ -16,7 +16,7 @@ Los agentes usan .github/agents/*.agent.md. Las instrucciones globales y por rut
 Lee shared/thesis-brief.md, shared/pipeline.md y shared/state.md. Comprueba qué herramientas y especialistas tienes. Delega en documentation-code la revisión de los enlaces del pipeline y en evaluation los riesgos de fuga documental. No edites nada todavía. Entrega sus resultados y tu síntesis. Si no puedes delegar, dilo y no simules la ejecución.
 
 ## Importación del corpus
-Coloca PDFs en research/papers/pdf/ y nuevas incorporaciones en research/inbox/. Aporta tu hoja de clasificación existente. No hay catálogo precargado ni clasificaciones inventadas. Las carpetas research/papers/text/, research/notes/, research/reports/ y research/state-of-the-art/ se crearán cuando sean necesarias.
+Coloca PDFs en research/papers/pdf/ y nuevas incorporaciones en research/inbox/. Aporta tu hoja de clasificación existente. No hay catálogo precargado ni clasificaciones inventadas. Las carpetas research/papers/text/, research/notes/, research/reports/ y research/state-of-the-art/ ya existen para organizar las incorporaciones.
 No asumas lectura nativa completa de PDF: solicita extracción/OCR local cuando haga falta, con aprobación antes de instalar herramientas. Conserva correspondencia con las páginas originales.
 
 ## Implementación
