@@ -39,9 +39,9 @@ class BaseEvaluator:
             bar.refresh()
             if current >= total:
                 break
-            if time.time() - no_progress_since >= 600:
+            if time.time() - no_progress_since >= 90:
                 if current == no_progress_count:
-                    print(f'No sample is evaluated in the past 600 seconds. We\'ll Re-run the evaluating script.')
+                    print(f'No sample is evaluated in the past 90 seconds. We\'ll Re-run the evaluating script.')
                     process.kill()
                     process.wait()
                     return False
