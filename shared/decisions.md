@@ -29,6 +29,11 @@ Selección final, compatibilidad y alcance temporal pendientes.
 Estado: plan candidato del usuario.
 CoderEval/DevEval/RepoExec y posibilidad de RepoMind. No sustituye D-001 ni aprueba todos los subconjuntos.
 
+## D-008 — Opción de documentación por API (2026-11-25)
+Estado: decisión explícita del usuario, vigente por ahora.
+Decisión: mantener RepoDocsAgent como opción de documentación por API. CodeDoc queda como alternativa para evaluar durante la etapa de implementación.
+Alcance: no implica que CodeDoc haya sido evaluado, que RepoDocsAgent esté implementado o integrado, ni aprueba cambios metodológicos o experimentos.
+
 ## Plantilla
 ID, fecha real, estado, pregunta, alternativas, evidencia, decisión/propuesta, aprobación, consecuencias, sustituye a.
 Conservar historial; nunca presentar recomendación del asistente como aprobación del usuario.
