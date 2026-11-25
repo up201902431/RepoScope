@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="940" viewBox="0 0 1440 940" role="img" aria-labelledby="title description">
+  <title id="title">RepoSummary pipeline overview</title>
+  <desc id="description">An original schematic of RepoSummary's Java repository analysis, hierarchical clustering, and feature-document generation pipeline.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M1,1 L11,6 L1,11 Z" fill="#42627f"/>
+    </marker>
+    <style>
+      .bg { fill: #f7f9fc; }
+      .box { fill: #fff; stroke: #42627f; stroke-width: 2; rx: 18; }
+      .input { fill: #e8f1fb; stroke: #42627f; stroke-width: 2; rx: 18; }
+      .output { fill: #e8f4ec; stroke: #477a58; stroke-width: 2; rx: 18; }
+      .flow { fill: none; stroke: #42627f; stroke-width: 3; marker-end: url(#arrow); }
+      .join { marker-end: none; }
+      .title { font: 700 34px sans-serif; fill: #172b3a; }
+      .heading { font: 700 21px sans-serif; fill: #172b3a; }
+      .body { font: 17px sans-serif; fill: #263d4f; }
+      .note { font: 15px sans-serif; fill: #526678; }
+    </style>
+  </defs>
+  <rect class="bg" width="1440" height="940"/>
+  <text id="title" class="title" x="720" y="58" text-anchor="middle">RepoSummary — feature-oriented documentation</text>
+
+  <rect class="input" x="500" y="95" width="440" height="86"/>
+  <text class="heading" x="720" y="130" text-anchor="middle">Java repository</text>
+  <text class="body" x="720" y="158" text-anchor="middle">source files, methods, and dependencies</text>
+
+  <path class="flow" d="M720 181 V220"/>
+  <rect class="box" x="420" y="223" width="600" height="108"/>
+  <text class="heading" x="720" y="260" text-anchor="middle">Repository structure analysis</text>
+  <text class="body" x="720" y="291" text-anchor="middle">Eclipse JDT extracts file/method nodes, imports, containment, and calls</text>
+
+  <path class="flow" d="M720 331 V350 H380 V370"/>
+  <path class="flow" d="M720 331 V350 H1060 V370"/>
+  <rect class="box" x="100" y="373" width="560" height="125"/>
+  <text class="heading" x="380" y="410" text-anchor="middle">Hierarchical code summaries</text>
+  <text class="body" x="380" y="442" text-anchor="middle">LLM summarizes methods and files</text>
+  <text class="body" x="380" y="472" text-anchor="middle">Sentence-BERT builds semantic similarity</text>
+
+  <rect class="box" x="780" y="373" width="560" height="125"/>
+  <text class="heading" x="1060" y="410" text-anchor="middle">Structural relations</text>
+  <text class="body" x="1060" y="442" text-anchor="middle">Import and invocation adjacency matrices</text>
+  <text class="body" x="1060" y="472" text-anchor="middle">File containment informs hierarchy</text>
+
+  <path class="flow join" d="M380 498 V538 H720"/>
+  <path class="flow join" d="M1060 498 V538 H720"/>
+  <path class="flow" d="M720 538 V558"/>
+  <rect class="box" x="420" y="561" width="600" height="108"/>
+  <text class="heading" x="720" y="600" text-anchor="middle">Fuse structure + semantic similarity</text>
+  <text class="body" x="720" y="633" text-anchor="middle">Leiden/CPM clustering: files first, then methods</text>
+
+  <path class="flow" d="M720 669 V710"/>
+  <rect class="box" x="420" y="713" width="600" height="108"/>
+  <text class="heading" x="720" y="752" text-anchor="middle">Generate functional features</text>
+  <text class="body" x="720" y="784" text-anchor="middle">LLM creates features from method clusters; groups them into epics</text>
+
+  <path class="flow" d="M720 821 V852"/>
+  <rect class="output" x="350" y="855" width="740" height="66"/>
+  <text class="heading" x="720" y="883" text-anchor="middle">Hierarchical documentation + feature-to-method/file links</text>
+  <text class="note" x="720" y="908" text-anchor="middle">Manual documentation is an evaluation reference, not a generation input.</text>
+</svg>
