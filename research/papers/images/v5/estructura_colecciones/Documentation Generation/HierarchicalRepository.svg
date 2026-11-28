@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 350" role="img" aria-labelledby="title desc">
+  <title id="title">Flujo analítico de resumen jerárquico de repositorios</title>
+  <desc id="desc">El código Java se segmenta con AST, se resume en unidades pequeñas con LLM locales y se agrega con contexto de negocio a niveles de archivo y paquete.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#526477"/>
+    </marker>
+    <style>
+      .box{fill:#f4f7fb;stroke:#56718e;stroke-width:2;rx:14}
+      .support{fill:#edf7f4;stroke:#4e8a79;stroke-width:2;rx:14}
+      .t{font:600 17px Arial,sans-serif;fill:#17324d}
+      .s{font:14px Arial,sans-serif;fill:#34495e}
+      .a{stroke:#526477;stroke-width:3;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1100" height="350" fill="#fff"/>
+  <text x="35" y="40" class="t">Resumen jerárquico — segmentación y agregación</text>
+  <rect class="box" x="25" y="110" width="190" height="115"/>
+  <text x="45" y="145" class="t">Código Java</text>
+  <text x="45" y="176" class="s">Repositorio BSS</text>
+  <text x="45" y="198" class="s">de telecomunicaciones</text>
+  <rect class="box" x="240" y="110" width="190" height="115"/>
+  <text x="260" y="145" class="t">Parser + AST</text>
+  <text x="260" y="176" class="s">Funciones, variables,</text>
+  <text x="260" y="198" class="s">constructores, enums</text>
+  <rect class="box" x="455" y="110" width="190" height="115"/>
+  <text x="475" y="145" class="t">LLM locales</text>
+  <text x="475" y="176" class="s">Resumen por unidad</text>
+  <text x="475" y="198" class="s">de código</text>
+  <rect class="box" x="670" y="110" width="190" height="115"/>
+  <text x="690" y="145" class="t">Agregación</text>
+  <text x="690" y="176" class="s">Unidad → archivo</text>
+  <text x="690" y="198" class="s">→ paquete</text>
+  <rect class="box" x="885" y="110" width="190" height="115"/>
+  <text x="905" y="145" class="t">Resumen</text>
+  <text x="905" y="176" class="s">Contextualizado al</text>
+  <text x="905" y="198" class="s">dominio de negocio</text>
+  <path class="a" d="M215 167 L235 167"/>
+  <path class="a" d="M430 167 L450 167"/>
+  <path class="a" d="M645 167 L665 167"/>
+  <path class="a" d="M860 167 L880 167"/>
+  <rect class="support" x="335" y="265" width="430" height="50"/>
+  <text x="355" y="296" class="s">Contexto de dominio y problema condiciona los resúmenes de niveles altos</text>
+  <path d="M550 265 L550 229" fill="none" stroke="#4e8a79" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>

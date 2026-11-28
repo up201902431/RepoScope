@@ -1,6 +1,6 @@
 # RMGenie: An LLM-Based Agent Framework for Open Source Software README Generation
 
-- source_pdf: ../../../../../pdf/Documentation-Code/secondary/RMGenie.pdf
+- source_pdf: ../../../../pdf/Documentation%20Generation/RMGenie.pdf
 - extraction_tool: PyMuPDF
 - extraction_date: 2026-11-24
 - status: automatic-text-extraction; not manually verified
@@ -107,9 +107,9 @@ DOI 10.1109/ICSME64153.2025.00052
 2025 IEEE International Conference on Software Maintenance and Evolution (ICSME) | 979-8-3315-9587-6/25/$31.00 ©2025 IEEE | DOI: 10.1109/ICSME64153.2025.00052
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 1](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-01.png)
+[Vista original de la página 1](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-01.png)
 
-![Página PDF 1, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-01.png)
+![Página PDF 1, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-01.png)
 
 
 <!-- PDF page 2 -->
@@ -225,9 +225,9 @@ through distinct decision and execution phases (Section III-B).
 506
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 2](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-02.png)
+[Vista original de la página 2](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-02.png)
 
-![Página PDF 2, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-02.png)
+![Página PDF 2, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-02.png)
 
 
 <!-- PDF page 3 -->
@@ -354,9 +354,9 @@ through a structured and iterative process.
 507
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 3](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-03.png)
+[Vista original de la página 3](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-03.png)
 
-![Página PDF 3, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-03.png)
+![Página PDF 3, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-03.png)
 
 
 <!-- PDF page 4 -->
@@ -468,9 +468,9 @@ environment and available resources (e.g., code files, APIs,
 508
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 4](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-04.png)
+[Vista original de la página 4](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-04.png)
 
-![Página PDF 4, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-04.png)
+![Página PDF 4, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-04.png)
 
 
 <!-- PDF page 5 -->
@@ -650,9 +650,9 @@ ensuring the selection of the optimal decision path.
 509
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 5](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-05.png)
+[Vista original de la página 5](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-05.png)
 
-![Página PDF 5, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-05.png)
+![Página PDF 5, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-05.png)
 
 
 <!-- PDF page 6 -->
@@ -786,9 +786,9 @@ misinformation.
 510
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 6](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-06.png)
+[Vista original de la página 6](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-06.png)
 
-![Página PDF 6, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-06.png)
+![Página PDF 6, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-06.png)
 
 
 <!-- PDF page 7 -->
@@ -926,9 +926,9 @@ instruction-compliant content.
 511
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 7](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-07.png)
+[Vista original de la página 7](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-07.png)
 
-![Página PDF 7, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-07.png)
+![Página PDF 7, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-07.png)
 
 
 <!-- PDF page 8 -->
@@ -1203,9 +1203,9 @@ ensure fairness, all models use the same inference parameters
 512
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 8](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-08.png)
+[Vista original de la página 8](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-08.png)
 
-![Página PDF 8, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-08.png)
+![Página PDF 8, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-08.png)
 
 
 <!-- PDF page 9 -->
@@ -1405,9 +1405,9 @@ factual accuracy. In human assessments, RMGenie achieves
 513
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 9](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-09.png)
+[Vista original de la página 9](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-09.png)
 
-![Página PDF 9, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-09.png)
+![Página PDF 9, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-09.png)
 
 
 <!-- PDF page 10 -->
@@ -1586,9 +1586,9 @@ cability and adoption of RMGenie.
 514
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 10](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-10.png)
+[Vista original de la página 10](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-10.png)
 
-![Página PDF 10, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-10.png)
+![Página PDF 10, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-10.png)
 
 
 <!-- PDF page 11 -->
@@ -1736,9 +1736,9 @@ language model benchmark,” arXiv preprint arXiv:2307.15020, 2023.
 515
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 11](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-11.png)
+[Vista original de la página 11](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-11.png)
 
-![Página PDF 11, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-11.png)
+![Página PDF 11, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-11.png)
 
 
 <!-- PDF page 12 -->
@@ -1775,6 +1775,6 @@ https://github.com/loevlie/GPT4Readability/tree/main?source=postpage−
 516
 Authorized licensed use limited to: b-on: UNIVERSIDADE DO PORTO. Downloaded on March 25,2026 at 12:02:36 UTC from IEEE Xplore.  Restrictions apply.
 
-[Vista original de la página 12](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-12.png)
+[Vista original de la página 12](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-12.png)
 
-![Página PDF 12, representación visual original](../../../../../images/v5/estructura_colecciones/Documentation-Code/secondary/RMGenie/page-12.png)
+![Página PDF 12, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/RMGenie/page-12.png)

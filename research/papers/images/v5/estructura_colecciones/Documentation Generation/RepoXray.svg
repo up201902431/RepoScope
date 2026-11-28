@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 420" role="img" aria-labelledby="title desc">
+  <title id="title">Flujo analítico de RepoXray</title>
+  <desc id="desc">RepoXray analiza archivos por separado, crea embeddings y síntesis del repositorio, y responde preguntas con búsqueda vectorial y contexto recuperado.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#526477"/>
+    </marker>
+    <style>
+      .box{fill:#f4f7fb;stroke:#56718e;stroke-width:2;rx:14}
+      .t{font:600 16px Arial,sans-serif;fill:#17324d}
+      .s{font:14px Arial,sans-serif;fill:#34495e}
+      .a{stroke:#526477;stroke-width:3;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1100" height="420" fill="#fff"/>
+  <text x="35" y="40" class="t">RepoXray — análisis y consulta RAG del repositorio</text>
+  <rect class="box" x="35" y="95" width="220" height="100"/>
+  <text x="55" y="130" class="t">Repositorio</text>
+  <text x="55" y="160" class="s">Ingesta y filtrado</text>
+  <rect class="box" x="300" y="95" width="220" height="100"/>
+  <text x="320" y="130" class="t">Análisis por archivo</text>
+  <text x="320" y="160" class="s">Resumen + observaciones</text>
+  <rect class="box" x="565" y="95" width="220" height="100"/>
+  <text x="585" y="130" class="t">Almacenamiento</text>
+  <text x="585" y="160" class="s">Embeddings + pgvector</text>
+  <rect class="box" x="830" y="95" width="220" height="100"/>
+  <text x="850" y="130" class="t">Síntesis Map–Reduce</text>
+  <text x="850" y="160" class="s">Arquitectura e informes</text>
+  <path class="a" d="M255 145 L295 145"/>
+  <path class="a" d="M520 145 L560 145"/>
+  <path class="a" d="M785 145 L825 145"/>
+  <rect class="box" x="170" y="270" width="260" height="95"/>
+  <text x="190" y="305" class="t">Pregunta del usuario</text>
+  <text x="190" y="335" class="s">Embedding de consulta</text>
+  <rect class="box" x="475" y="270" width="260" height="95"/>
+  <text x="495" y="305" class="t">Búsqueda vectorial</text>
+  <text x="495" y="335" class="s">Contexto relevante</text>
+  <rect class="box" x="780" y="270" width="220" height="95"/>
+  <text x="800" y="305" class="t">LLM</text>
+  <text x="800" y="335" class="s">Respuesta RAG</text>
+  <path class="a" d="M430 317 L470 317"/>
+  <path class="a" d="M735 317 L775 317"/>
+  <path d="M650 267 C650 225 675 220 675 199" fill="none" stroke="#526477" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+  <text x="35" y="400" class="s">Comprensión/consulta; no genera funciones objetivo ni evalúa corrección funcional.</text>
+</svg>

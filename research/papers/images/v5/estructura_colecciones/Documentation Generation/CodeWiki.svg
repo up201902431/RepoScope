@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 350" role="img" aria-labelledby="title desc">
+  <title id="title">Flujo analítico de CodeWiki</title>
+  <desc id="desc">El análisis del repositorio crea una jerarquía; agentes documentan módulos hoja y los resúmenes se ensamblan recursivamente en documentación global.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#526477"/>
+    </marker>
+    <style>
+      .box{fill:#f4f7fb;stroke:#56718e;stroke-width:2;rx:14}
+      .t{font:600 17px Arial,sans-serif;fill:#17324d}
+      .s{font:14px Arial,sans-serif;fill:#34495e}
+      .a{stroke:#526477;stroke-width:3;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1100" height="350" fill="#fff"/>
+  <text x="35" y="40" class="t">CodeWiki — documentación jerárquica de repositorios</text>
+  <rect class="box" x="25" y="105" width="190" height="125"/>
+  <text x="45" y="140" class="t">Repositorio</text>
+  <text x="45" y="171" class="s">AST y dependencias</text>
+  <text x="45" y="194" class="s">multi-lenguaje</text>
+  <rect class="box" x="240" y="105" width="190" height="125"/>
+  <text x="260" y="140" class="t">Descomposición</text>
+  <text x="260" y="171" class="s">Jerarquía de</text>
+  <text x="260" y="194" class="s">módulos</text>
+  <rect class="box" x="455" y="105" width="190" height="125"/>
+  <text x="475" y="140" class="t">Agentes recursivos</text>
+  <text x="475" y="171" class="s">Documentan hojas</text>
+  <text x="475" y="194" class="s">y delegan tareas</text>
+  <rect class="box" x="670" y="105" width="190" height="125"/>
+  <text x="690" y="140" class="t">Síntesis ascendente</text>
+  <text x="690" y="171" class="s">Hijos → padres</text>
+  <text x="690" y="194" class="s">con referencias cruzadas</text>
+  <rect class="box" x="885" y="105" width="190" height="125"/>
+  <text x="905" y="140" class="t">Documentación</text>
+  <text x="905" y="171" class="s">Visión global, diagramas</text>
+  <text x="905" y="194" class="s">y flujos</text>
+  <path class="a" d="M215 167 L235 167"/>
+  <path class="a" d="M430 167 L450 167"/>
+  <path class="a" d="M645 167 L665 167"/>
+  <path class="a" d="M860 167 L880 167"/>
+  <text x="35" y="290" class="s">CodeWikiBench evalúa documentación con rúbricas jerárquicas y jueces LLM; es evaluación de documentación, no de código generado.</text>
+</svg>

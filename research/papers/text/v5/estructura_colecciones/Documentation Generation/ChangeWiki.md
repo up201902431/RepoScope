@@ -1,6 +1,6 @@
 # ChangeWiki
 
-- source_pdf: ../../../../../../pdf/Related/primary/time%20traversal/ChangeWiki.pdf
+- source_pdf: ../../../../pdf/Documentation%20Generation/ChangeWiki.pdf
 - extraction_tool: pdfplumber
 - extraction_date: 2026-11-24
 - status: automatic-text-extraction; not manually verified
@@ -75,9 +75,9 @@ ACMISBN979-8-4007-2882-2/2026/10
 https://doi.org/10.1145/3832783.3834436 cantly improve fluency and readability. While these advances have
 1333
 
-[Vista original de la página 1](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-01.png)
+[Vista original de la página 1](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-01.png)
 
-![Página PDF 1, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-01.png)
+![Página PDF 1, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-01.png)
 
 
 <!-- PDF page 2 -->
@@ -144,9 +144,9 @@ mariesatdifferentgranularities.InRQ1,ChangeWikioutperforms However, the actual i
 thebestbaselineby7.83%inROUGE-L,4.35%inBLEU,and7.54%in summary 𝑆 𝑎𝑏, is to avoid the busy-loop issue caused by starting a
 1334
 
-[Vista original de la página 2](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-02.png)
+[Vista original de la página 2](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-02.png)
 
-![Página PDF 2, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-02.png)
+![Página PDF 2, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-02.png)
 
 
 <!-- PDF page 3 -->
@@ -328,9 +328,9 @@ rization method augmented with architectural semantics. It aims to First, we ext
 recover system evolution semantics from scattered code commits panding its modeling scope from coarse-grained entities such as
 1335
 
-[Vista original de la página 3](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-03.png)
+[Vista original de la página 3](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-03.png)
 
-![Página PDF 3, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-03.png)
+![Página PDF 3, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-03.png)
 
 
 <!-- PDF page 4 -->
@@ -498,9 +498,9 @@ The result is a set of augmented hierarchical change entity trees, and then clus
 denoted as 𝐻 𝑠 ∗. recover its modular structure. Through above process, we recover
 1336
 
-[Vista original de la página 4](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-04.png)
+[Vista original de la página 4](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-04.png)
 
-![Página PDF 4, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-04.png)
+![Página PDF 4, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-04.png)
 
 
 <!-- PDF page 5 -->
@@ -769,9 +769,9 @@ m
 s,
 1337
 
-[Vista original de la página 5](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-05.png)
+[Vista original de la página 5](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-05.png)
 
-![Página PDF 5, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-05.png)
+![Página PDF 5, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-05.png)
 
 
 <!-- PDF page 6 -->
@@ -861,9 +861,9 @@ mantics are generated layer by layer and aggregated into architec- tion constrai
 tural evolution semantics (lines 14–16). of the LLM at the current granularity level, guiding the model to
 1338
 
-[Vista original de la página 6](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-06.png)
+[Vista original de la página 6](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-06.png)
 
-![Página PDF 6, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-06.png)
+![Página PDF 6, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-06.png)
 
 
 <!-- PDF page 7 -->
@@ -955,9 +955,9 @@ change summary quality? We conduct ablation studies by pro- representativeness. 
 gressivelyremovingkeycomponents,Type-AwareMulti-Granularity a clear evolution interval and extract the complete commit history
 1339
 
-[Vista original de la página 7](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-07.png)
+[Vista original de la página 7](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-07.png)
 
-![Página PDF 7, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-07.png)
+![Página PDF 7, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-07.png)
 
 
 <!-- PDF page 8 -->
@@ -1027,9 +1027,9 @@ high-level summaries align with fine-grained changes and support BERTScore by ap
 tracing back to underlying details. Consistent improvement can be observed across other models.
 1340
 
-[Vista original de la página 8](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-08.png)
+[Vista original de la página 8](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-08.png)
 
-![Página PDF 8, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-08.png)
+![Página PDF 8, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-08.png)
 
 
 <!-- PDF page 9 -->
@@ -1101,9 +1101,9 @@ The corresponding metrics for architectural-level summaries drop mainly because 
 by 10.9% and 10.3%. Removing the architectural component leads fine-grained modifications, making them less readable to users. For
 1341
 
-[Vista original de la página 9](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-09.png)
+[Vista original de la página 9](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-09.png)
 
-![Página PDF 9, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-09.png)
+![Página PDF 9, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-09.png)
 
 
 <!-- PDF page 10 -->
@@ -1186,9 +1186,9 @@ Practical Deployment and Usability. To facilitate the adop- relies on clear depe
 tion of our approach in real-world development workflows, we or tangled dependency structures, our granularity-differentiated
 1342
 
-[Vista original de la página 10](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-10.png)
+[Vista original de la página 10](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-10.png)
 
-![Página PDF 10, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-10.png)
+![Página PDF 10, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-10.png)
 
 
 <!-- PDF page 11 -->
@@ -1293,9 +1293,9 @@ gram element tracking and refactoring detection. Representative
 tools include CodeTracker [24] and RefactoringMiner [42, 43] for
 1343
 
-[Vista original de la página 11](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-11.png)
+[Vista original de la página 11](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-11.png)
 
-![Página PDF 11, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-11.png)
+![Página PDF 11, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-11.png)
 
 
 <!-- PDF page 12 -->
@@ -1395,9 +1395,9 @@ IEEE/ACM International Conference on Automated Software Engineering (ASE). [41] 
 2019. ENRE: A Tool Framework for Extensible eNtity Relation Extraction. In 2024),32pages. doi:10.1145/3643675
 1344
 
-[Vista original de la página 12](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-12.png)
+[Vista original de la página 12](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-12.png)
 
-![Página PDF 12, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-12.png)
+![Página PDF 12, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-12.png)
 
 
 <!-- PDF page 13 -->
@@ -1431,6 +1431,6 @@ Yang,andYueTan.2024. AutomatedCommitMessageGenerationWithLarge Received2026-03-2
 LanguageModels:AnEmpiricalStudyandBeyond.IEEETransactionsonSoftware
 1345
 
-[Vista original de la página 13](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-13.png)
+[Vista original de la página 13](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-13.png)
 
-![Página PDF 13, representación visual original](../../../../../../images/v5/estructura_colecciones/Related/primary/time%20traversal/ChangeWiki/page-13.png)
+![Página PDF 13, representación visual original](../../../../images/v5/estructura_colecciones/Documentation%20Generation/ChangeWiki/page-13.png)

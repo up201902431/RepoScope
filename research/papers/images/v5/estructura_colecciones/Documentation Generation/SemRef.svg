@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 380" role="img" aria-labelledby="title desc">
+  <title id="title">Flujo analítico de SemRef</title>
+  <desc id="desc">SemRef toma una arquitectura recuperada, incorpora semántica y dependencias, refina la jerarquía de módulos y entrega una arquitectura organizada con resúmenes.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#526477"/>
+    </marker>
+    <style>
+      .box{fill:#f4f7fb;stroke:#56718e;stroke-width:2;rx:14}
+      .support{fill:#edf7f4;stroke:#4e8a79;stroke-width:2;rx:14}
+      .t{font:600 17px Arial,sans-serif;fill:#17324d}
+      .s{font:14px Arial,sans-serif;fill:#34495e}
+      .a{stroke:#526477;stroke-width:3;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1100" height="380" fill="#fff"/>
+  <text x="35" y="40" class="t">SemRef — refinamiento semántico de recuperación arquitectónica</text>
+  <rect class="box" x="25" y="105" width="195" height="112"/>
+  <text x="45" y="140" class="t">Salida SAR</text>
+  <text x="45" y="171" class="s">Módulos iniciales</text>
+  <text x="45" y="194" class="s">y relaciones</text>
+  <rect class="box" x="245" y="105" width="195" height="112"/>
+  <text x="265" y="140" class="t">Señales mixtas</text>
+  <text x="265" y="171" class="s">Dependencias</text>
+  <text x="265" y="194" class="s">+ semántica de código</text>
+  <rect class="box" x="465" y="105" width="195" height="112"/>
+  <text x="485" y="140" class="t">Jerarquía inicial</text>
+  <text x="485" y="171" class="s">Colocación y</text>
+  <text x="485" y="194" class="s">resumen de módulos</text>
+  <rect class="box" x="685" y="105" width="195" height="112"/>
+  <text x="705" y="140" class="t">Refinamiento</text>
+  <text x="705" y="171" class="s">Mover, dividir,</text>
+  <text x="705" y="194" class="s">fusionar y revisar</text>
+  <rect class="box" x="905" y="105" width="170" height="112"/>
+  <text x="925" y="140" class="t">Salida</text>
+  <text x="925" y="171" class="s">Arquitectura</text>
+  <text x="925" y="194" class="s">refinada</text>
+  <path class="a" d="M220 161 L240 161"/>
+  <path class="a" d="M440 161 L460 161"/>
+  <path class="a" d="M660 161 L680 161"/>
+  <path class="a" d="M880 161 L900 161"/>
+  <path d="M780 220 C780 300 560 300 560 220" fill="none" stroke="#4e8a79" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+  <rect class="support" x="340" y="315" width="420" height="45"/>
+  <text x="360" y="344" class="s">Resúmenes de módulos apoyan la comprensión; no son el modelo arquitectónico</text>
+</svg>
